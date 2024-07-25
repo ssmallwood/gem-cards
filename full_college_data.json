@@ -14,7 +14,10 @@
             "Moderately selective admission rate",
             "Strong retention and graduation rates",
             "Good value for in-state students"
-        ]
+        ],
+        "Institution Type": "Public",
+        "City": "Charleston",
+        "State": "SC"
     },
     "Appalachian State University": {
         "hidden_gem_reasons": [
@@ -31,7 +34,11 @@
             "Moderately selective admission rate",
             "High retention rates",
             "Good value for in-state students"
-        ]
+        ],
+        "Institution Type": "Public",
+        "City": "Boone",
+        "State": "NC"
+
     },
     "University of North Florida": {
         "hidden_gem_reasons": [
@@ -48,7 +55,11 @@
             "Moderately selective admission rate",
             "Good graduation rates",
             "Excellent value for in-state students"
-        ]
+        ],
+        "Institution Type": "Public",
+        "City": "Jacksonville",
+        "State": "FL"
+    
     },
     "University of Tulsa": {
         "hidden_gem_reasons": [
@@ -4442,7 +4453,10 @@
             "High earnings to price ratio (1.15)",
             "Very high admission rate (90%)",
             "Low yield rate (25%)"
-        ]
+        ],
+        "Institution Type": "Public",
+        "City": "Phoenix",
+        "State": "AZ"
     },
     "Augustana College": {
         "hidden_gem_reasons": [
