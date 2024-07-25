@@ -8,36 +8,35 @@ def load_data():
     return data
 
 def display_college_card(college_name, details):
-    # Define custom CSS
+    # Define custom CSS with theme-aware colors
     st.markdown("""
     <style>
     .big-font {
-        font-size:18px;
+        font-size: 18px;
         font-weight: bold;
-        color: #2c3e50;
     }
     .small-font {
-        font-size:14px;
+        font-size: 14px;
     }
     .data-section {
-        border: 1px solid #ddd;
+        border: 1px solid var(--st-color-secondary-25);
         border-radius: 10px;
         padding: 20px;
         margin-bottom: 20px;
         box-shadow: 0 4px 8px rgba(0,0,0,0.1);
     }
     .private-institution {
-        background-color: #e6f3ff;
+        background-color: var(--st-color-primary-10);
     }
     .public-institution {
-        background-color: #e6ffe6;
+        background-color: var(--st-color-success-10);
     }
     .unknown-institution {
-        background-color: #f0f0f0;
+        background-color: var(--st-color-secondary-10);
     }
     .metric-pill {
         display: inline-block;
-        background-color: #e8e8e8;
+        background-color: var(--st-color-secondary-25);
         border-radius: 15px;
         padding: 6px 12px;
         margin: 5px;
@@ -50,6 +49,10 @@ def display_college_card(college_name, details):
     li {
         margin-bottom: 5px;
         font-size: 13px;
+    }
+    /* Ensure text is visible in both light and dark modes */
+    .data-section, .data-section h3, .data-section h4, .data-section h5, .data-section p, .data-section li, .metric-pill {
+        color: var(--st-color-text);
     }
     </style>
     """, unsafe_allow_html=True)
@@ -114,7 +117,21 @@ def get_all_states(data):
 
 def main():
     st.set_page_config(layout="wide")
-    st.title("College Info Dashboard")
+    
+    # Set the theme to light mode
+    st.markdown("""
+        <style>
+        :root {
+            --st-color-primary-10: #e6f3ff;
+            --st-color-success-10: #e6ffe6;
+            --st-color-secondary-10: #f0f0f0;
+            --st-color-secondary-25: #e0e0e0;
+            --st-color-text: #000000;
+        }
+        </style>
+    """, unsafe_allow_html=True)
+    
+    st.title("The Quiet Prestige List")
     college_data = load_data()
     
     # Filtering options

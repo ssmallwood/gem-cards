@@ -4,122 +4,87 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>College Cards</title>
-    <script src="https://unpkg.com/react@17/umd/react.production.min.js"></script>
-    <script src="https://unpkg.com/react-dom@17/umd/react-dom.production.min.js"></script>
-    <script src="https://unpkg.com/babel-standalone@6/babel.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/react/17.0.2/umd/react.production.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/react-dom/17.0.2/umd/react-dom.production.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.26.0/babel.min.js"></script>
     <script src="https://cdn.tailwindcss.com"></script>
 </head>
 <body>
     <div id="root"></div>
     <script type="text/babel">
-        const collegeData = {
-            "Furman University": {
-                "location": "Greenville, SC",
-                "hidden_gem_reasons": [
-                    "Strong liberal arts education with a focus on undergraduate research",
-                    "Beautiful campus with a lake and extensive green spaces",
-                    "Robust study abroad programs"
-                ],
-                "potential_drawbacks": [
-                    "High cost of attendance",
-                    "Less diverse student body",
-                    "Location may feel isolated for some students"
-                ],
-                "notable_metrics": [
-                    "Moderately selective admission rate (67%)",
-                    "High graduation rate (85%)",
-                    "Low yield rate (13%)"
-                ]
-            },
-            "George Mason University": {
-                "location": "Fairfax, VA",
-                "hidden_gem_reasons": [
-                    "Diverse student body with strong international representation",
-                    "Proximity to Washington D.C. offers unique internship opportunities",
-                    "Strong programs in economics, public policy, and performing arts"
-                ],
-                "potential_drawbacks": [
-                    "Large student body may feel overwhelming",
-                    "Primarily a commuter school, which may affect campus life",
-                    "Less traditional 'college town' experience"
-                ],
-                "notable_metrics": [
-                    "High admission rate (90%)",
-                    "Good earnings to price ratio (0.94)",
-                    "Solid graduation rate (71%)"
-                ]
-            },
-        };
-
-        const StateIcon = ({ state }) => (
-            <div className="w-10 h-10 bg-blue-500 text-white rounded-full flex items-center justify-center font-bold text-lg">
-                {state}
+        const CollegeCard = ({ college, data }) => (
+            <div className="bg-white shadow-md rounded-lg p-6 m-4 max-w-sm w-full">
+                <h2 className="text-xl font-bold mb-4">{college}</h2>
+                <div>
+                    <h3 className="font-semibold mb-2">Hidden Gem Reasons:</h3>
+                    <ul className="list-disc pl-5 mb-4">
+                        {data.hidden_gem_reasons.map((reason, index) => (
+                            <li key={index}>{reason}</li>
+                        ))}
+                    </ul>
+                    <h3 className="font-semibold mb-2">Potential Drawbacks:</h3>
+                    <ul className="list-disc pl-5 mb-4">
+                        {data.potential_drawbacks.map((drawback, index) => (
+                            <li key={index}>{drawback}</li>
+                        ))}
+                    </ul>
+                    <h3 className="font-semibold mb-2">Notable Metrics:</h3>
+                    <ul className="list-disc pl-5">
+                        {data.notable_metrics.map((metric, index) => (
+                            <li key={index}>{metric}</li>
+                        ))}
+                    </ul>
+                </div>
             </div>
         );
 
-        const CollegeCard = ({ name, data }) => {
-            const [city, state] = data.location.split(', ');
-
-            return (
-                <div className="bg-white shadow-md rounded-lg p-6 mb-4">
-                    <h2 className="text-xl font-bold mb-2">{name}</h2>
-                    <div className="flex items-center mb-2">
-                        <StateIcon state={state} />
-                        <p className="ml-2 text-gray-600">{data.location}</p>
-                    </div>
-                    <div className="mb-2">
-                        <h3 className="font-semibold">Hidden Gem Reasons:</h3>
-                        <ul className="list-disc pl-5">
-                            {data.hidden_gem_reasons.map((reason, index) => (
-                                <li key={index}>{reason}</li>
-                            ))}
-                        </ul>
-                    </div>
-                    <div className="mb-2">
-                        <h3 className="font-semibold">Potential Drawbacks:</h3>
-                        <ul className="list-disc pl-5">
-                            {data.potential_drawbacks.map((drawback, index) => (
-                                <li key={index}>{drawback}</li>
-                            ))}
-                        </ul>
-                    </div>
-                    <div>
-                        <h3 className="font-semibold">Notable Metrics:</h3>
-                        <div className="flex flex-wrap gap-2 mt-1">
-                            {data.notable_metrics.map((metric, index) => (
-                                <span key={index} className="bg-gray-200 text-gray-700 px-2 py-1 rounded text-sm">{metric}</span>
-                            ))}
-                        </div>
-                    </div>
-                </div>
-            );
-        };
-
-        const CollegeCardsGrid = () => {
+        const CollegeCards = () => {
+            const [colleges, setColleges] = React.useState({});
             const [searchTerm, setSearchTerm] = React.useState('');
+            const [error, setError] = React.useState(null);
 
-            const filteredColleges = Object.entries(collegeData).filter(([name]) =>
-                name.toLowerCase().includes(searchTerm.toLowerCase())
+            React.useEffect(() => {
+                fetch('/full_college_data.json')
+                    .then(response => response.json())
+                    .then(data => {
+                        console.log("Fetched data:", data);
+                        setColleges(data);
+                    })
+                    .catch(error => {
+                        console.error('Error loading college data:', error);
+                        setError(error.toString());
+                    });
+            }, []);
+
+            if (error) {
+                return <div className="text-red-500">Error: {error}</div>;
+            }
+
+            const filteredColleges = Object.entries(colleges).filter(([college]) =>
+                college.toLowerCase().includes(searchTerm.toLowerCase())
             );
 
             return (
-                <div className="p-4">
+                <div className="p-4 max-w-7xl mx-auto">
+                    <h1 className="text-3xl font-bold mb-4 text-center">Hidden Gems Finder</h1>
                     <input
                         type="text"
                         placeholder="Search colleges..."
-                        className="w-full p-2 mb-4 border rounded"
+                        value={searchTerm}
                         onChange={(e) => setSearchTerm(e.target.value)}
+                        className="w-full p-2 mb-4 border rounded"
                     />
-                    <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
-                        {filteredColleges.map(([name, data]) => (
-                            <CollegeCard key={name} name={name} data={data} />
+                    <div className="flex flex-wrap justify-center">
+                        {filteredColleges.map(([college, data]) => (
+                            <CollegeCard key={college} college={college} data={data} />
                         ))}
                     </div>
+                    {filteredColleges.length === 0 && <p>No colleges found.</p>}
                 </div>
             );
         };
 
-        ReactDOM.render(<CollegeCardsGrid />, document.getElementById('root'));
+        ReactDOM.render(<CollegeCards />, document.getElementById('root'));
     </script>
 </body>
 </html>

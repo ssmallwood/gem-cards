@@ -1,0 +1,3952 @@
+{
+  "College of Charleston": {
+    "hidden_gem_reasons": [
+      "Strong liberal arts education in a historic urban setting",
+      "Excellent marine biology and environmental science programs",
+      "Vibrant campus life with a unique blend of history and modernity"
+    ],
+    "potential_drawbacks": [
+      "Limited diversity in student body",
+      "Some programs may be less developed than at larger universities",
+      "High cost of living in Charleston"
+    ],
+    "notable_metrics": [
+      "Moderately selective admission rate",
+      "Strong retention and graduation rates",
+      "Good value for in-state students"
+    ]
+  },
+  "Appalachian State University": {
+    "hidden_gem_reasons": [
+      "Strong programs in education, business, and sustainable development",
+      "Beautiful mountain setting with outdoor recreation opportunities",
+      "Emphasis on sustainability and environmental stewardship"
+    ],
+    "potential_drawbacks": [
+      "Remote location may not appeal to all students",
+      "Winters can be harsh",
+      "Some programs may be less developed than at larger research universities"
+    ],
+    "notable_metrics": [
+      "Moderately selective admission rate",
+      "High retention rates",
+      "Good value for in-state students"
+    ]
+  },
+  "University of North Florida": {
+    "hidden_gem_reasons": [
+      "Strong programs in business, nursing, and coastal biology",
+      "Beautiful campus with nature trails and close proximity to beaches",
+      "Emphasis on undergraduate research and internships"
+    ],
+    "potential_drawbacks": [
+      "Less name recognition compared to other Florida state universities",
+      "Some programs may be less developed than at larger universities",
+      "Large commuter population may affect campus life"
+    ],
+    "notable_metrics": [
+      "Moderately selective admission rate",
+      "Good graduation rates",
+      "Excellent value for in-state students"
+    ]
+  },
+  "University of Tulsa": {
+    "hidden_gem_reasons": [
+      "Strong programs in engineering, computer science, and energy studies",
+      "Low student-to-faculty ratio with personalized attention",
+      "Generous merit scholarships and need-based aid"
+    ],
+    "potential_drawbacks": [
+      "High cost of attendance for a private university",
+      "Limited diversity in student body",
+      "Some may find the location lacking in big-city amenities"
+    ],
+    "notable_metrics": [
+      "Moderately selective admission rate",
+      "High graduation rates",
+      "Strong job placement rates in certain fields"
+    ]
+  },
+  "University of Dallas": {
+    "hidden_gem_reasons": [
+      "Rigorous core curriculum based on Western classics",
+      "Strong Catholic identity with emphasis on liberal arts",
+      "Unique Rome program for sophomore year abroad"
+    ],
+    "potential_drawbacks": [
+      "Conservative campus culture may not appeal to all students",
+      "Limited diversity in student body",
+      "High cost of attendance for a private university"
+    ],
+    "notable_metrics": [
+      "Moderately selective admission rate",
+      "High graduation rates",
+      "Strong graduate school placement rates"
+    ]
+  },
+  "Dickinson College": {
+    "hidden_gem_reasons": [
+      "Strong focus on global education and sustainability",
+      "Unique 'useful education' philosophy combining liberal arts with practical skills",
+      "Beautiful historic campus"
+    ],
+    "potential_drawbacks": [
+      "High cost of attendance",
+      "Small town location may not appeal to all students",
+      "Less name recognition compared to some peer institutions"
+    ],
+    "notable_metrics": [
+      "Selective admission rate (35%)",
+      "High graduation rate (84%)",
+      "Surprisingly high earnings to price ratio for a liberal arts college (1.17)"
+    ]
+  },
+  "Drexel University": {
+    "hidden_gem_reasons": [
+      "Renowned co-op program providing extensive work experience",
+      "Strong STEM and business programs",
+      "Urban campus with easy access to Philadelphia's resources"
+    ],
+    "potential_drawbacks": [
+      "Fast-paced quarter system may be challenging for some students",
+      "High cost of attendance",
+      "Co-op program extends time to graduation for most students"
+    ],
+    "notable_metrics": [
+      "High admission rate (80%)",
+      "Solid graduation rate (78%)",
+      "Good earnings to price ratio (0.86)"
+    ]
+  },
+  "Duquesne University": {
+    "hidden_gem_reasons": [
+      "Strong programs in pharmacy, law, and health sciences",
+      "Emphasis on community service and ethical leadership",
+      "Urban campus with a close-knit community feel"
+    ],
+    "potential_drawbacks": [
+      "High cost of attendance",
+      "Catholic affiliation may not appeal to all students",
+      "Less diverse student body"
+    ],
+    "notable_metrics": [
+      "High admission rate (87%)",
+      "Solid graduation rate (78%)",
+      "Low yield rate (13%)"
+    ]
+  },
+  "Eastern New Mexico University-Main Campus": {
+    "hidden_gem_reasons": [
+      "Affordable tuition, especially for a four-year institution",
+      "Strong programs in communication and education",
+      "Supportive environment for first-generation college students"
+    ],
+    "potential_drawbacks": [
+      "Remote location may not appeal to all students",
+      "Limited program offerings compared to larger universities",
+      "Lower graduation rate"
+    ],
+    "notable_metrics": [
+      "Selective admission rate (28%)",
+      "Very high earnings to price ratio (1.90)",
+      "Low four-year cost ($19,161)"
+    ]
+  },
+  "Elon University": {
+    "hidden_gem_reasons": [
+      "Strong emphasis on experiential learning and study abroad",
+      "Beautiful campus with state-of-the-art facilities",
+      "Renowned programs in business, communications, and education"
+    ],
+    "potential_drawbacks": [
+      "High cost of attendance",
+      "Less diverse student body",
+      "Location may feel isolated for some students"
+    ],
+    "notable_metrics": [
+      "Moderate admission rate (74%)",
+      "High graduation rate (83%)",
+      "Low yield rate (13%)"
+    ]
+  },
+  "Fairfield University": {
+    "hidden_gem_reasons": [
+      "Strong liberal arts education with a focus on social justice",
+      "Beautiful campus near the Connecticut coastline",
+      "Solid business and nursing programs"
+    ],
+    "potential_drawbacks": [
+      "High cost of attendance",
+      "Jesuit affiliation may not appeal to all students",
+      "Less diverse student body"
+    ],
+    "notable_metrics": [
+      "Moderate admission rate (52%)",
+      "High graduation rate (84%)",
+      "Very high four-year cost ($174,276)"
+    ]
+  },
+  "Florida International University": {
+    "hidden_gem_reasons": [
+      "Diverse student body with strong international focus",
+      "Excellent programs in business, engineering, and hospitality management",
+      "Located in vibrant Miami with many internship opportunities"
+    ],
+    "potential_drawbacks": [
+      "Large student body may feel overwhelming",
+      "Primarily a commuter school, which may affect campus life",
+      "Some programs may be impacted due to high enrollment"
+    ],
+    "notable_metrics": [
+      "Exceptionally high earnings to price ratio (2.33)",
+      "Very affordable four-year cost ($24,928)",
+      "High yield rate (40%)"
+    ]
+  },
+  "Fordham University": {
+    "hidden_gem_reasons": [
+      "Jesuit education emphasizing ethics and social justice",
+      "Strong programs in business, theater, and pre-law",
+      "Multiple campuses offering both urban and suburban experiences"
+    ],
+    "potential_drawbacks": [
+      "High cost of attendance",
+      "Religious affiliation may not appeal to all students",
+      "Competitive academic environment"
+    ],
+    "notable_metrics": [
+      "Moderate admission rate (54%)",
+      "High graduation rate (83%)",
+      "Low yield rate (10%)"
+    ]
+  },
+  "Franklin W Olin College of Engineering": {
+    "hidden_gem_reasons": [
+      "Innovative project-based curriculum focused on engineering",
+      "Small class sizes with close faculty interaction",
+      "Emphasis on entrepreneurship and interdisciplinary collaboration"
+    ],
+    "potential_drawbacks": [
+      "Extremely small size may limit social and academic opportunities",
+      "Focused curriculum may not suit students unsure about engineering",
+      "Suburban location may not appeal to all students"
+    ],
+    "notable_metrics": [
+      "Highly selective admission rate (19%)",
+      "Exceptional graduation rate (94%)",
+      "High yield rate (45%)"
+    ]
+  },
+  "The Cooper Union for the Advancement of Science and Art": {
+    "hidden_gem_reasons": [
+      "Prestigious programs in architecture, art, and engineering",
+      "Generous scholarship policy for all admitted students",
+      "Located in the heart of New York City"
+    ],
+    "potential_drawbacks": [
+      "Extremely competitive admission process",
+      "Limited program offerings",
+      "Intense academic environment may not suit all students"
+    ],
+    "notable_metrics": [
+      "Highly selective admission rate (22%)",
+      "High graduation rate (83%)",
+      "Very high yield rate (54%)"
+    ]
+  } ,
+  "Furman University": {
+    "hidden_gem_reasons": [
+      "Strong liberal arts education with a focus on undergraduate research",
+      "Beautiful campus with a lake and extensive green spaces",
+      "Robust study abroad programs"
+    ],
+    "potential_drawbacks": [
+      "High cost of attendance",
+      "Less diverse student body",
+      "Location may feel isolated for some students"
+    ],
+    "notable_metrics": [
+      "Moderately selective admission rate (67%)",
+      "High graduation rate (85%)",
+      "Low yield rate (13%)"
+    ]
+  },
+  "George Mason University": {
+    "hidden_gem_reasons": [
+      "Diverse student body with strong international representation",
+      "Proximity to Washington D.C. offers unique internship opportunities",
+      "Strong programs in economics, public policy, and performing arts"
+    ],
+    "potential_drawbacks": [
+      "Large student body may feel overwhelming",
+      "Primarily a commuter school, which may affect campus life",
+      "Less traditional 'college town' experience"
+    ],
+    "notable_metrics": [
+      "High admission rate (90%)",
+      "Good earnings to price ratio (0.94)",
+      "Solid graduation rate (71%)"
+    ]
+  },
+  "Gettysburg College": {
+    "hidden_gem_reasons": [
+      "Strong liberal arts education with emphasis on critical thinking",
+      "Rich history and proximity to Gettysburg National Military Park",
+      "Robust first-year experience and career development programs"
+    ],
+    "potential_drawbacks": [
+      "High cost of attendance",
+      "Small town location may not appeal to all students",
+      "Less diverse student body"
+    ],
+    "notable_metrics": [
+      "Moderately selective admission rate (56%)",
+      "High graduation rate (82%)",
+      "Relatively high yield rate (20%) for a small liberal arts college"
+    ]
+  },
+  "Gonzaga University": {
+    "hidden_gem_reasons": [
+      "Strong sense of community and school spirit",
+      "Excellent study abroad programs",
+      "Jesuit education emphasizing social justice and service"
+    ],
+    "potential_drawbacks": [
+      "High cost of attendance",
+      "Religious affiliation may not appeal to all students",
+      "Location in Spokane may feel isolated for some"
+    ],
+    "notable_metrics": [
+      "Moderately selective admission rate (70%)",
+      "Very high graduation rate (88%)",
+      "Solid yield rate (18%)"
+    ]
+  },
+  "Grand Valley State University": {
+    "hidden_gem_reasons": [
+      "Beautiful campus with modern facilities",
+      "Strong programs in health sciences and education",
+      "Emphasis on undergraduate research and hands-on learning"
+    ],
+    "potential_drawbacks": [
+      "Less name recognition outside of Michigan",
+      "Suburban location may not appeal to all students",
+      "Some programs may be less developed than at larger universities"
+    ],
+    "notable_metrics": [
+      "High admission rate (90%)",
+      "Good earnings to price ratio (0.77)",
+      "Moderate graduation rate (66%)"
+    ]
+  },
+  "Hofstra University": {
+    "hidden_gem_reasons": [
+      "Proximity to New York City offers internship and cultural opportunities",
+      "Strong programs in business, communications, and performing arts",
+      "Emphasis on experiential learning"
+    ],
+    "potential_drawbacks": [
+      "High cost of attendance",
+      "Suburban campus may not appeal to students seeking an urban experience",
+      "Less school spirit compared to some peer institutions"
+    ],
+    "notable_metrics": [
+      "Moderately selective admission rate (69%)",
+      "Moderate graduation rate (68%)",
+      "Very low yield rate (10%)"
+    ]
+  },
+  "Howard University": {
+    "hidden_gem_reasons": [
+      "Prestigious historically Black university with strong alumni network",
+      "Located in Washington D.C. with access to unique opportunities",
+      "Strong programs in business, communications, and STEM fields"
+    ],
+    "potential_drawbacks": [
+      "High cost of attendance",
+      "Some concerns about administrative efficiency",
+      "Urban campus may not appeal to all students"
+    ],
+    "notable_metrics": [
+      "Moderately selective admission rate (53%)",
+      "Solid graduation rate (70%)",
+      "Lower earnings to price ratio (0.32)"
+    ]
+  },
+  "Illinois Institute of Technology": {
+    "hidden_gem_reasons": [
+      "Strong STEM and architecture programs",
+      "Emphasis on hands-on, project-based learning",
+      "Located in Chicago with access to numerous internship opportunities"
+    ],
+    "potential_drawbacks": [
+      "Less diverse academic offerings outside of STEM fields",
+      "Campus atmosphere may feel less lively compared to liberal arts colleges",
+      "Urban location may not appeal to all students"
+    ],
+    "notable_metrics": [
+      "Moderately selective admission rate (61%)",
+      "Solid graduation rate (75%)",
+      "Good earnings to price ratio (0.93)"
+    ]
+  },
+  "Indiana University-Bloomington": {
+    "hidden_gem_reasons": [
+      "Strong programs in business, music, and media studies",
+      "Beautiful campus with vibrant student life",
+      "Excellent study abroad opportunities"
+    ],
+    "potential_drawbacks": [
+      "Large student body may feel overwhelming",
+      "Strong party school reputation may not appeal to all",
+      "Some programs may be highly competitive to enter"
+    ],
+    "notable_metrics": [
+      "High admission rate (82%)",
+      "Good earnings to price ratio (1.08)",
+      "High graduation rate (81%)"
+    ]
+  },
+  "Ithaca College": {
+    "hidden_gem_reasons": [
+      "Strong programs in communications, music, and physical therapy",
+      "Beautiful campus overlooking Cayuga Lake",
+      "Emphasis on experiential learning and internships"
+    ],
+    "potential_drawbacks": [
+      "High cost of attendance",
+      "Isolated location may not appeal to all students",
+      "Less diverse student body"
+    ],
+    "notable_metrics": [
+      "Moderately selective admission rate (75%)",
+      "Solid graduation rate (74%)",
+      "Low yield rate (14%)"
+    ]
+  }
+,
+  "James Madison University": {
+    "hidden_gem_reasons": [
+      "Strong sense of community and school spirit",
+      "Excellent programs in business, health sciences, and education",
+      "Beautiful campus with state-of-the-art facilities"
+    ],
+    "potential_drawbacks": [
+      "Some programs may be highly competitive to enter",
+      "Less diverse student body compared to some peer institutions",
+      "May be less known outside the Mid-Atlantic region"
+    ],
+    "notable_metrics": [
+      "Moderately selective admission rate (78%)",
+      "High graduation rate (81%)",
+      "Good earnings to price ratio (0.73)"
+    ]
+  },
+  "Kalamazoo College": {
+    "hidden_gem_reasons": [
+      "Rigorous liberal arts education with a unique K-Plan curriculum",
+      "Strong emphasis on experiential learning and study abroad",
+      "Close-knit community with small class sizes"
+    ],
+    "potential_drawbacks": [
+      "High cost of attendance for a small liberal arts college",
+      "Limited diversity in program offerings",
+      "Intense academic environment may not suit all students"
+    ],
+    "notable_metrics": [
+      "Moderately selective admission rate (79%)",
+      "High graduation rate (80%)",
+      "Low yield rate (13%)"
+    ]
+  },
+  "Kansas State University": {
+    "hidden_gem_reasons": [
+      "Strong programs in agriculture, engineering, and veterinary medicine",
+      "Friendly campus atmosphere with a strong sense of community",
+      "Excellent undergraduate research opportunities"
+    ],
+    "potential_drawbacks": [
+      "Some programs may be less developed than at larger research universities",
+      "Greek life plays a significant role, which may not appeal to everyone",
+      "May have less name recognition outside the Midwest"
+    ],
+    "notable_metrics": [
+      "Very high admission rate (95%)",
+      "Moderate graduation rate (69%)",
+      "High yield rate (32%)"
+    ]
+  },
+  "Lewis & Clark College": {
+    "hidden_gem_reasons": [
+      "Strong environmental studies and international affairs programs",
+      "Emphasis on undergraduate research and study abroad",
+      "Close-knit community with a focus on sustainability"
+    ],
+    "potential_drawbacks": [
+      "High cost of attendance",
+      "Limited diversity in program offerings",
+      "Intense academic environment may not suit all students"
+    ],
+    "notable_metrics": [
+      "Moderately selective admission rate (69%)",
+      "Solid graduation rate (73%)",
+      "Low earnings to price ratio (0.36)"
+    ]
+  },
+  "Loyola University Maryland": {
+    "hidden_gem_reasons": [
+      "Strong liberal arts education with a Jesuit focus",
+      "Excellent business and communication programs",
+      "Emphasis on service learning and community engagement"
+    ],
+    "potential_drawbacks": [
+      "High cost of attendance",
+      "Religious affiliation may not appeal to all students",
+      "Less diverse student body compared to some peer institutions"
+    ],
+    "notable_metrics": [
+      "High admission rate (83%)",
+      "Solid graduation rate (79%)",
+      "Low yield rate (16%)"
+    ]
+  },
+  "Macalester College": {
+    "hidden_gem_reasons": [
+      "Rigorous academics with a strong emphasis on internationalism",
+      "Diverse student body with a high percentage of international students",
+      "Strong programs in social sciences and humanities"
+    ],
+    "potential_drawbacks": [
+      "High cost of attendance",
+      "Intense academic environment may not suit all students",
+      "Limited diversity in program offerings compared to larger universities"
+    ],
+    "notable_metrics": [
+      "Highly selective admission rate (28%)",
+      "Very high graduation rate (88%)",
+      "Solid yield rate (23%)"
+    ]
+  },
+  "Manhattan College": {
+    "hidden_gem_reasons": [
+      "Strong engineering and business programs",
+      "Lasallian education emphasizing ethics and social justice",
+      "Easy access to internship opportunities in New York City"
+    ],
+    "potential_drawbacks": [
+      "High cost of attendance",
+      "Religious affiliation may not appeal to all students",
+      "Limited campus life due to its location and commuter population"
+    ],
+    "notable_metrics": [
+      "High admission rate (82%)",
+      "Solid graduation rate (72%)",
+      "Very low yield rate (9%)"
+    ]
+  },
+  "Marquette University": {
+    "hidden_gem_reasons": [
+      "Strong programs in business, nursing, and physical therapy",
+      "Jesuit education emphasizing service and leadership",
+      "Vibrant campus life with strong basketball tradition"
+    ],
+    "potential_drawbacks": [
+      "High cost of attendance",
+      "Religious affiliation may not appeal to all students",
+      "Intense academic environment in certain programs"
+    ],
+    "notable_metrics": [
+      "High admission rate (87%)",
+      "Very good graduation rate (83%)",
+      "Low yield rate (14%)"
+    ]
+  },
+  "Miami University-Oxford": {
+    "hidden_gem_reasons": [
+      "Strong undergraduate teaching with a liberal arts focus",
+      "Beautiful campus with Georgian-style architecture",
+      "Excellent programs in business and education"
+    ],
+    "potential_drawbacks": [
+      "Less diverse student body compared to some peer institutions",
+      "Strong Greek life presence may not appeal to all students",
+      "May have less name recognition outside the Midwest"
+    ],
+    "notable_metrics": [
+      "High admission rate (88%)",
+      "Very good graduation rate (81%)",
+      "Moderate earnings to price ratio (0.63)"
+    ]
+  },
+  "Michigan State University": {
+    "hidden_gem_reasons": [
+      "Wide range of strong academic programs, particularly in agriculture and education",
+      "Extensive research opportunities for undergraduates",
+      "Vibrant campus life with strong athletic traditions"
+    ],
+    "potential_drawbacks": [
+      "Large student body may feel overwhelming for some",
+      "Some intro classes may be very large",
+      "Competitive atmosphere in certain programs"
+    ],
+    "notable_metrics": [
+      "High admission rate (88%)",
+      "Very good graduation rate (82%)",
+      "Excellent earnings to price ratio (1.48)"
+    ]
+  }
+,
+  "Rochester Institute of Technology": {
+    "hidden_gem_reasons": [
+      "Strong programs in engineering, computing, and design",
+      "Innovative co-op program providing extensive work experience",
+      "Unique blend of technology, art, and design programs"
+    ],
+    "potential_drawbacks": [
+      "Heavy focus on STEM may not appeal to all students",
+      "Rigorous academic environment can be challenging",
+      "Campus culture may feel less traditional"
+    ],
+    "notable_metrics": [
+      "Moderately selective admission rate (67%)",
+      "Solid graduation rate (72%)",
+      "Moderate earnings to price ratio (0.56)"
+    ]
+  },
+  "Rose-Hulman Institute of Technology": {
+    "hidden_gem_reasons": [
+      "Consistently top-ranked undergraduate engineering program",
+      "Small class sizes with high faculty-student interaction",
+      "Strong emphasis on hands-on, project-based learning"
+    ],
+    "potential_drawbacks": [
+      "Limited program diversity outside of STEM fields",
+      "High cost of attendance",
+      "Intense academic environment may not suit all students"
+    ],
+    "notable_metrics": [
+      "Moderately selective admission rate (73%)",
+      "High graduation rate (81%)",
+      "Low yield rate (16%)"
+    ]
+  },
+  "Rowan University": {
+    "hidden_gem_reasons": [
+      "Growing research profile with strong engineering programs",
+      "Emphasis on hands-on learning and internships",
+      "Good value for in-state students"
+    ],
+    "potential_drawbacks": [
+      "Rapid growth may lead to some growing pains",
+      "Less name recognition outside the region",
+      "Some facilities may be older or under renovation"
+    ],
+    "notable_metrics": [
+      "Moderately selective admission rate (77%)",
+      "Solid graduation rate (68%)",
+      "Good yield rate (20%)"
+    ]
+  },
+  "Rutgers University-New Brunswick": {
+    "hidden_gem_reasons": [
+      "Wide range of strong academic programs",
+      "Extensive research opportunities for undergraduates",
+      "Diverse student body with vibrant campus life"
+    ],
+    "potential_drawbacks": [
+      "Large student body may feel overwhelming for some",
+      "Navigating multiple campuses can be challenging",
+      "Some intro classes may be very large"
+    ],
+    "notable_metrics": [
+      "Moderately selective admission rate (66%)",
+      "High graduation rate (84%)",
+      "Excellent earnings to price ratio (1.2)"
+    ]
+  },
+  "SUNY at Albany": {
+    "hidden_gem_reasons": [
+      "Strong programs in criminal justice, public affairs, and atmospheric sciences",
+      "Diverse student body with numerous cultural activities",
+      "Good value for in-state students"
+    ],
+    "potential_drawbacks": [
+      "Some facilities may be older compared to peer institutions",
+      "Less name recognition outside the Northeast",
+      "Campus atmosphere may feel less traditional"
+    ],
+    "notable_metrics": [
+      "Moderately selective admission rate (68%)",
+      "Solid graduation rate (66%)",
+      "Good earnings to price ratio (0.91)"
+    ]
+  },
+  "Saint Mary's College of California": {
+    "hidden_gem_reasons": [
+      "Strong liberal arts education with a focus on social justice",
+      "Renowned Great Books program",
+      "Close-knit community with small class sizes"
+    ],
+    "potential_drawbacks": [
+      "High cost of attendance",
+      "Limited diversity in program offerings",
+      "Religious affiliation may not appeal to all students"
+    ],
+    "notable_metrics": [
+      "High admission rate (88%)",
+      "Solid graduation rate (72%)",
+      "Low yield rate (15%)"
+    ]
+  },
+  "San Diego State University": {
+    "hidden_gem_reasons": [
+      "Strong programs in business, engineering, and public health",
+      "Vibrant campus life with strong athletic traditions",
+      "Diverse student body with numerous cultural activities"
+    ],
+    "potential_drawbacks": [
+      "Highly competitive admission for certain programs",
+      "Large student body may feel overwhelming for some",
+      "Some majors may be impacted, limiting class availability"
+    ],
+    "notable_metrics": [
+      "Selective admission rate (39%)",
+      "High graduation rate (78%)",
+      "Exceptional earnings to price ratio (2.37)"
+    ]
+  },
+  "Santa Clara University": {
+    "hidden_gem_reasons": [
+      "Strong programs in business and engineering",
+      "Emphasis on social justice and ethical leadership",
+      "Prime location in Silicon Valley for internships and job opportunities"
+    ],
+    "potential_drawbacks": [
+      "High cost of attendance",
+      "Religious affiliation may not appeal to all students",
+      "Competitive academic environment in certain programs"
+    ],
+    "notable_metrics": [
+      "Moderately selective admission rate (52%)",
+      "Very high graduation rate (89%)",
+      "Moderate yield rate (19%)"
+    ]
+  },
+  "Shenandoah University": {
+    "hidden_gem_reasons": [
+      "Strong programs in performing arts, health sciences, and business",
+      "Close-knit community with personalized attention",
+      "Emphasis on experiential learning and internships"
+    ],
+    "potential_drawbacks": [
+      "High cost of attendance for a small private university",
+      "Limited name recognition outside the region",
+      "Less diverse program offerings compared to larger universities"
+    ],
+    "notable_metrics": [
+      "High admission rate (80%)",
+      "Moderate graduation rate (63%)",
+      "Surprisingly high yield rate (26%)"
+    ]
+  },
+  "Skidmore College": {
+    "hidden_gem_reasons": [
+      "Strong liberal arts education with emphasis on interdisciplinary studies",
+      "Renowned for creativity and innovative thinking",
+      "Close faculty-student relationships and collaborative research opportunities"
+    ],
+    "potential_drawbacks": [
+      "High cost of attendance",
+      "Limited diversity in program offerings",
+      "May have less name recognition outside the Northeast"
+    ],
+    "notable_metrics": [
+      "Highly selective admission rate (26%)",
+      "High graduation rate (84%)",
+      "Moderate yield rate (23%)"
+    ]
+  }
+,
+  "Sonoma State University": {
+    "hidden_gem_reasons": [
+      "Beautiful campus in California wine country",
+      "Strong programs in business, psychology, and environmental studies",
+      "Emphasis on sustainability and green initiatives"
+    ],
+    "potential_drawbacks": [
+      "Less name recognition compared to other California state universities",
+      "Limited program diversity compared to larger universities",
+      "Higher cost for out-of-state students"
+    ],
+    "notable_metrics": [
+      "Very high admission rate (94%)",
+      "Exceptionally high earnings to price ratio (2.52)",
+      "Low yield rate (10%)"
+    ]
+  },
+  "Spelman College": {
+    "hidden_gem_reasons": [
+      "Prestigious historically black women's college",
+      "Strong emphasis on leadership development and social justice",
+      "Excellent STEM programs for women of color"
+    ],
+    "potential_drawbacks": [
+      "Limited to female students",
+      "High cost of attendance for a small college",
+      "Competitive academic environment"
+    ],
+    "notable_metrics": [
+      "Highly selective admission rate (28%)",
+      "Solid graduation rate (74%)",
+      "Low yield rate (15%)"
+    ]
+  },
+  "St Olaf College": {
+    "hidden_gem_reasons": [
+      "Strong liberal arts education with excellent music programs",
+      "Emphasis on global perspective and study abroad",
+      "Close-knit community with strong Nordic heritage"
+    ],
+    "potential_drawbacks": [
+      "High cost of attendance",
+      "Limited diversity in student body",
+      "Rural setting may not appeal to all students"
+    ],
+    "notable_metrics": [
+      "Moderately selective admission rate (56%)",
+      "High graduation rate (85%)",
+      "Good yield rate (28%)"
+    ]
+  },
+  "St. Mary's College of Maryland": {
+    "hidden_gem_reasons": [
+      "Public liberal arts college with a 'honors college' feel",
+      "Strong marine science and environmental studies programs",
+      "Beautiful waterfront campus with sailing opportunities"
+    ],
+    "potential_drawbacks": [
+      "Limited program diversity compared to larger universities",
+      "Rural location may not appeal to all students",
+      "Less name recognition outside the region"
+    ],
+    "notable_metrics": [
+      "Moderately selective admission rate (77%)",
+      "Solid graduation rate (71%)",
+      "Good earnings to price ratio (0.74)"
+    ]
+  },
+  "Stevens Institute of Technology": {
+    "hidden_gem_reasons": [
+      "Strong STEM programs with emphasis on innovation",
+      "Excellent career outcomes and high starting salaries",
+      "Close proximity to New York City for internships and jobs"
+    ],
+    "potential_drawbacks": [
+      "Limited program diversity outside of STEM fields",
+      "High cost of attendance",
+      "Intense academic environment may not suit all students"
+    ],
+    "notable_metrics": [
+      "Moderately selective admission rate (46%)",
+      "Very high graduation rate (88%)",
+      "Low yield rate (17%)"
+    ]
+  },
+  "Stony Brook University": {
+    "hidden_gem_reasons": [
+      "Strong research opportunities for undergraduates",
+      "Excellent STEM programs, especially in health sciences",
+      "Diverse student body with a global perspective"
+    ],
+    "potential_drawbacks": [
+      "Large student body may feel overwhelming for some",
+      "Some intro classes may be very large",
+      "Campus atmosphere may feel less traditional"
+    ],
+    "notable_metrics": [
+      "Moderately selective admission rate (49%)",
+      "High graduation rate (78%)",
+      "Good earnings to price ratio (1.08)"
+    ]
+  },
+  "Syracuse University": {
+    "hidden_gem_reasons": [
+      "Strong programs in communications, information studies, and public affairs",
+      "Vibrant campus life with strong school spirit",
+      "Extensive alumni network and career services"
+    ],
+    "potential_drawbacks": [
+      "High cost of attendance",
+      "Harsh winters may not appeal to all students",
+      "Large student body may feel overwhelming for some"
+    ],
+    "notable_metrics": [
+      "Moderately selective admission rate (52%)",
+      "High graduation rate (83%)",
+      "Moderate yield rate (19%)"
+    ]
+  },
+  "Temple University": {
+    "hidden_gem_reasons": [
+      "Wide range of strong academic programs",
+      "Urban campus with diverse student body",
+      "Excellent value for in-state students"
+    ],
+    "potential_drawbacks": [
+      "Large student body may feel overwhelming for some",
+      "Urban environment may not appeal to all students",
+      "Some areas around campus have safety concerns"
+    ],
+    "notable_metrics": [
+      "High admission rate (80%)",
+      "Solid graduation rate (78%)",
+      "Low yield rate (15%)"
+    ]
+  },
+  "Texas A & M University-College Station": {
+    "hidden_gem_reasons": [
+      "Strong engineering, agriculture, and business programs",
+      "Rich traditions and extremely loyal alumni network",
+      "Extensive research opportunities for undergraduates"
+    ],
+    "potential_drawbacks": [
+      "Very large student body may feel overwhelming",
+      "Conservative campus culture may not appeal to all students",
+      "Some intro classes may be very large"
+    ],
+    "notable_metrics": [
+      "Moderately selective admission rate (63%)",
+      "High graduation rate (84%)",
+      "Exceptionally high yield rate (46%)"
+    ]
+  },
+  "The College of New Jersey": {
+    "hidden_gem_reasons": [
+      "Strong liberal arts education with a public school price",
+      "Beautiful campus with a close-knit community feel",
+      "Excellent programs in education and engineering"
+    ],
+    "potential_drawbacks": [
+      "Limited name recognition outside the region",
+      "Less diverse student body compared to some peer institutions",
+      "Some may find the suburban setting lacking in excitement"
+    ],
+    "notable_metrics": [
+      "Moderately selective admission rate (64%)",
+      "Very high graduation rate (86%)",
+      "Good earnings to price ratio (1.03)"
+    ]
+  }
+,
+  "The College of Wooster": {
+    "hidden_gem_reasons": [
+      "Renowned for undergraduate research and Independent Study program",
+      "Strong liberal arts education with excellent mentoring",
+      "Unique bagpipe and Scottish traditions"
+    ],
+    "potential_drawbacks": [
+      "Limited name recognition outside the Midwest",
+      "Small town setting may not appeal to all students",
+      "Less diverse program offerings compared to larger universities"
+    ],
+    "notable_metrics": [
+      "Moderately selective admission rate (56%)",
+      "Solid graduation rate (74%)",
+      "Low yield rate (14%)"
+    ]
+  },
+  "The University of Alabama": {
+    "hidden_gem_reasons": [
+      "Strong business and communications programs",
+      "Exceptional merit scholarships for out-of-state students",
+      "Rich traditions and vibrant campus life"
+    ],
+    "potential_drawbacks": [
+      "Large student body may feel overwhelming for some",
+      "Strong Greek life presence may not appeal to everyone",
+      "Some may perceive an overemphasis on athletics"
+    ],
+    "notable_metrics": [
+      "High admission rate (80%)",
+      "Solid graduation rate (73%)",
+      "Moderate earnings to price ratio (0.65)"
+    ]
+  },
+  "The University of Tennessee-Knoxville": {
+    "hidden_gem_reasons": [
+      "Strong programs in engineering, business, and agriculture",
+      "Extensive research opportunities for undergraduates",
+      "Vibrant campus life with strong school spirit"
+    ],
+    "potential_drawbacks": [
+      "Large student body may feel overwhelming for some",
+      "Some intro classes may be very large",
+      "Strong sports culture may not appeal to all students"
+    ],
+    "notable_metrics": [
+      "Moderately selective admission rate (68%)",
+      "Solid graduation rate (73%)",
+      "Good yield rate (28%)"
+    ]
+  },
+  "Truman State University": {
+    "hidden_gem_reasons": [
+      "Missouri's only public liberal arts university",
+      "Strong academics at an affordable price",
+      "Emphasis on undergraduate research and study abroad"
+    ],
+    "potential_drawbacks": [
+      "Rural location may not appeal to all students",
+      "Less name recognition outside the Midwest",
+      "Limited diversity in student body"
+    ],
+    "notable_metrics": [
+      "Moderately selective admission rate (45%)",
+      "Solid graduation rate (71%)",
+      "Excellent earnings to price ratio (1.23)"
+    ]
+  },
+  "Union College": {
+    "hidden_gem_reasons": [
+      "Strong engineering program within a liberal arts context",
+      "Unique trimester system allowing for extended internships",
+      "Close-knit community with strong alumni network"
+    ],
+    "potential_drawbacks": [
+      "High cost of attendance",
+      "Less diverse student body compared to some peer institutions",
+      "Small town setting may not appeal to all students"
+    ],
+    "notable_metrics": [
+      "Moderately selective admission rate (47%)",
+      "High graduation rate (85%)",
+      "Low yield rate (15%)"
+    ]
+  },
+  "University at Buffalo": {
+    "hidden_gem_reasons": [
+      "Wide range of strong academic programs",
+      "Extensive research opportunities for undergraduates",
+      "Diverse student body with a global perspective"
+    ],
+    "potential_drawbacks": [
+      "Large student body may feel overwhelming for some",
+      "Harsh winters may not appeal to all students",
+      "Some intro classes may be very large"
+    ],
+    "notable_metrics": [
+      "Moderately selective admission rate (68%)",
+      "Solid graduation rate (74%)",
+      "Good earnings to price ratio (0.85)"
+    ]
+  },
+  "University of California-Riverside": {
+    "hidden_gem_reasons": [
+      "Strong programs in environmental sciences and engineering",
+      "Diverse student body with supportive campus community",
+      "Opportunities for undergraduate research"
+    ],
+    "potential_drawbacks": [
+      "Less prestigious reputation compared to other UC campuses",
+      "Some students may find the suburban setting lacking",
+      "Highly competitive for some majors"
+    ],
+    "notable_metrics": [
+      "Moderately selective admission rate (69%)",
+      "Solid graduation rate (76%)",
+      "Excellent earnings to price ratio (1.20)"
+    ]
+  },
+  "University of Central Oklahoma": {
+    "hidden_gem_reasons": [
+      "Strong programs in forensic science and jazz studies",
+      "Emphasis on transformative learning experiences",
+      "Affordable tuition with good scholarship opportunities"
+    ],
+    "potential_drawbacks": [
+      "Less name recognition outside the region",
+      "Limited diversity in program offerings compared to larger universities",
+      "Lower graduation rate compared to some peer institutions"
+    ],
+    "notable_metrics": [
+      "High admission rate (70%)",
+      "Low graduation rate (35%)",
+      "High yield rate (53%)"
+    ]
+  },
+  "University of Colorado Boulder": {
+    "hidden_gem_reasons": [
+      "Strong programs in aerospace engineering and environmental sciences",
+      "Beautiful campus with excellent outdoor recreation opportunities",
+      "Vibrant student life and strong school spirit"
+    ],
+    "potential_drawbacks": [
+      "High out-of-state tuition",
+      "Party school reputation may not appeal to all",
+      "Large student body may feel overwhelming for some"
+    ],
+    "notable_metrics": [
+      "High admission rate (81%)",
+      "Solid graduation rate (75%)",
+      "Low yield rate (16%)"
+    ]
+  },
+  "University of Connecticut": {
+    "hidden_gem_reasons": [
+      "Strong programs in business, engineering, and health sciences",
+      "Excellent honors program for high-achieving students",
+      "Vibrant campus life with strong athletic traditions"
+    ],
+    "potential_drawbacks": [
+      "Rural main campus location may not appeal to all students",
+      "Large student body may feel overwhelming for some",
+      "Highly competitive for some majors"
+    ],
+    "notable_metrics": [
+      "Moderately selective admission rate (55%)",
+      "High graduation rate (83%)",
+      "Excellent earnings to price ratio (1.22)"
+    ]
+  }
+,
+  "University of Dayton": {
+    "hidden_gem_reasons": [
+      "Strong sense of community and Marianist values",
+      "Excellent engineering and business programs",
+      "Unique student neighborhood for upperclassmen housing"
+    ],
+    "potential_drawbacks": [
+      "High cost of attendance for a Midwest private university",
+      "Catholic affiliation may not appeal to all students",
+      "Less name recognition outside the region"
+    ],
+    "notable_metrics": [
+      "Moderately selective admission rate (74%)",
+      "High graduation rate (81%)",
+      "Low yield rate (14%)"
+    ]
+  },
+  "University of Delaware": {
+    "hidden_gem_reasons": [
+      "Strong programs in engineering, business, and marine science",
+      "Beautiful campus with rich history",
+      "Excellent study abroad opportunities"
+    ],
+    "potential_drawbacks": [
+      "Large student body may feel overwhelming for some",
+      "Strong Greek life presence may not appeal to everyone",
+      "Out-of-state tuition can be high"
+    ],
+    "notable_metrics": [
+      "Moderately selective admission rate (74%)",
+      "High graduation rate (80%)",
+      "Good earnings to price ratio (0.98)"
+    ]
+  },
+  "University of Denver": {
+    "hidden_gem_reasons": [
+      "Strong programs in international studies and hospitality management",
+      "Beautiful campus with easy access to outdoor activities",
+      "Emphasis on experiential learning and internships"
+    ],
+    "potential_drawbacks": [
+      "High cost of attendance",
+      "Less diverse student body compared to some peer institutions",
+      "Winter weather may not appeal to all students"
+    ],
+    "notable_metrics": [
+      "Moderately selective admission rate (78%)",
+      "Solid graduation rate (77%)",
+      "Low yield rate (11%)"
+    ]
+  },
+  "University of Georgia": {
+    "hidden_gem_reasons": [
+      "Strong programs in journalism, business, and ecology",
+      "Beautiful historic campus with vibrant student life",
+      "Excellent honors program for high-achieving students"
+    ],
+    "potential_drawbacks": [
+      "Large student body may feel overwhelming for some",
+      "Highly competitive for some majors",
+      "Strong Greek life presence may not appeal to everyone"
+    ],
+    "notable_metrics": [
+      "Selective admission rate (43%)",
+      "Very high graduation rate (88%)",
+      "Good earnings to price ratio (1.06)"
+    ]
+  },
+  "University of Illinois Urbana-Champaign": {
+    "hidden_gem_reasons": [
+      "World-class engineering and computer science programs",
+      "Strong research opportunities for undergraduates",
+      "Vibrant campus life with diverse student organizations"
+    ],
+    "potential_drawbacks": [
+      "Large student body may feel overwhelming for some",
+      "Highly competitive for popular majors",
+      "Rural setting may not appeal to all students"
+    ],
+    "notable_metrics": [
+      "Selective admission rate (45%)",
+      "High graduation rate (85%)",
+      "Excellent earnings to price ratio (1.25)"
+    ]
+  },
+  "University of Iowa": {
+    "hidden_gem_reasons": [
+      "Renowned writing programs and strong health sciences",
+      "Vibrant college town atmosphere",
+      "Excellent research opportunities for undergraduates"
+    ],
+    "potential_drawbacks": [
+      "Party school reputation may not appeal to all",
+      "Harsh winters may be challenging for some students",
+      "Some programs may be less developed than others"
+    ],
+    "notable_metrics": [
+      "High admission rate (86%)",
+      "Solid graduation rate (74%)",
+      "Good earnings to price ratio (0.81)"
+    ]
+  },
+  "University of Mary Washington": {
+    "hidden_gem_reasons": [
+      "Strong liberal arts education with a public school price",
+      "Small classes with close faculty interaction",
+      "Rich history and beautiful campus"
+    ],
+    "potential_drawbacks": [
+      "Limited program diversity compared to larger universities",
+      "Less name recognition outside the region",
+      "Small town setting may not appeal to all students"
+    ],
+    "notable_metrics": [
+      "High admission rate (86%)",
+      "Solid graduation rate (69%)",
+      "Moderate earnings to price ratio (0.67)"
+    ]
+  },
+  "University of Maryland-College Park": {
+    "hidden_gem_reasons": [
+      "Strong programs in engineering, computer science, and journalism",
+      "Extensive research opportunities for undergraduates",
+      "Vibrant campus life with strong athletic traditions"
+    ],
+    "potential_drawbacks": [
+      "Large student body may feel overwhelming for some",
+      "Highly competitive for popular majors",
+      "Some students may find the suburban setting lacking"
+    ],
+    "notable_metrics": [
+      "Selective admission rate (45%)",
+      "Very high graduation rate (89%)",
+      "Good earnings to price ratio (1.1)"
+    ]
+  },
+  "University of Massachusetts-Amherst": {
+    "hidden_gem_reasons": [
+      "Strong programs in computer science, business, and food science",
+      "Beautiful campus with excellent dining options",
+      "Vibrant Five College Consortium for expanded opportunities"
+    ],
+    "potential_drawbacks": [
+      "Large student body may feel overwhelming for some",
+      "Harsh winters may be challenging for some students",
+      "Some intro classes may be very large"
+    ],
+    "notable_metrics": [
+      "Moderately selective admission rate (64%)",
+      "High graduation rate (83%)",
+      "Good earnings to price ratio (1.01)"
+    ]
+  },
+  "University of Minnesota-Rochester": {
+    "hidden_gem_reasons": [
+      "Innovative health sciences focus",
+      "Small classes with personalized attention",
+      "Strong connections to Mayo Clinic for internships and research"
+    ],
+    "potential_drawbacks": [
+      "Limited program diversity outside of health sciences",
+      "Small student body may limit some social opportunities",
+      "Less name recognition compared to Twin Cities campus"
+    ],
+    "notable_metrics": [
+      "Moderately selective admission rate (72%)",
+      "Moderate graduation rate (59%)",
+      "Good earnings to price ratio (0.94)"
+    ]
+  }
+,
+  "University of Minnesota-Twin Cities": {
+    "hidden_gem_reasons": [
+      "Wide range of strong academic programs across many disciplines",
+      "Extensive research opportunities for undergraduates",
+      "Vibrant urban campus with strong school spirit"
+    ],
+    "potential_drawbacks": [
+      "Large student body may feel overwhelming for some",
+      "Harsh winters may be challenging for some students",
+      "Some intro classes may be very large"
+    ],
+    "notable_metrics": [
+      "Moderately selective admission rate (75%)",
+      "High graduation rate (84%)",
+      "Good earnings to price ratio (0.94)"
+    ]
+  },
+  "University of Nebraska-Lincoln": {
+    "hidden_gem_reasons": [
+      "Strong programs in agriculture, business, and journalism",
+      "Excellent undergraduate research opportunities",
+      "Vibrant campus life with strong athletic traditions"
+    ],
+    "potential_drawbacks": [
+      "Less diverse student body compared to some peer institutions",
+      "Some may find the location lacking in big-city amenities",
+      "Winters can be harsh"
+    ],
+    "notable_metrics": [
+      "High admission rate (79%)",
+      "Moderate graduation rate (65%)",
+      "Good earnings to price ratio (0.84)"
+    ]
+  },
+  "University of New England": {
+    "hidden_gem_reasons": [
+      "Strong health sciences and marine science programs",
+      "Beautiful coastal campuses",
+      "Emphasis on experiential learning and internships"
+    ],
+    "potential_drawbacks": [
+      "High cost of attendance",
+      "Limited program diversity outside of health sciences",
+      "Rural location may not appeal to all students"
+    ],
+    "notable_metrics": [
+      "Very high admission rate (96%)",
+      "Moderate graduation rate (59%)",
+      "Low earnings to price ratio (0.33)"
+    ]
+  },
+  "University of North Carolina at Asheville": {
+    "hidden_gem_reasons": [
+      "Strong liberal arts education at a public university price",
+      "Beautiful mountain setting with outdoor recreation opportunities",
+      "Small classes with close faculty interaction"
+    ],
+    "potential_drawbacks": [
+      "Limited program diversity compared to larger universities",
+      "Less name recognition outside the region",
+      "May lack some amenities of larger campuses"
+    ],
+    "notable_metrics": [
+      "Moderately selective admission rate (74%)",
+      "Moderate graduation rate (59%)",
+      "Good earnings to price ratio (0.86)"
+    ]
+  },
+  "University of North Georgia": {
+    "hidden_gem_reasons": [
+      "Strong military program and leadership development",
+      "Beautiful mountain campus",
+      "Good value for in-state students"
+    ],
+    "potential_drawbacks": [
+      "Limited program diversity compared to larger universities",
+      "Rural location may not appeal to all students",
+      "Less name recognition outside the region"
+    ],
+    "notable_metrics": [
+      "Moderately selective admission rate (70%)",
+      "Low graduation rate (39%)",
+      "Good earnings to price ratio (1.1)"
+    ]
+  },
+  "University of Oklahoma-Norman Campus": {
+    "hidden_gem_reasons": [
+      "Strong programs in meteorology, energy, and Native American studies",
+      "Beautiful campus with strong school spirit",
+      "Excellent merit scholarships for out-of-state students"
+    ],
+    "potential_drawbacks": [
+      "Greek life plays a significant role, which may not appeal to everyone",
+      "Some may find the location lacking in big-city amenities",
+      "Less diverse student body compared to some peer institutions"
+    ],
+    "notable_metrics": [
+      "Moderately selective admission rate (73%)",
+      "Solid graduation rate (76%)",
+      "Good yield rate (30%)"
+    ]
+  },
+  "University of Oregon": {
+    "hidden_gem_reasons": [
+      "Strong programs in journalism, environmental studies, and sports business",
+      "Beautiful campus with excellent outdoor recreation opportunities",
+      "Vibrant college town atmosphere"
+    ],
+    "potential_drawbacks": [
+      "Rainy weather may not appeal to all students",
+      "Less diverse student body compared to some peer institutions",
+      "Some programs may be less developed than others"
+    ],
+    "notable_metrics": [
+      "High admission rate (86%)",
+      "Solid graduation rate (73%)",
+      "Moderate earnings to price ratio (0.76)"
+    ]
+  },
+  "University of Pittsburgh-Pittsburgh Campus": {
+    "hidden_gem_reasons": [
+      "Strong programs in health sciences, engineering, and business",
+      "Vibrant urban campus with excellent internship opportunities",
+      "Unique Guaranteed Admissions Program for select professional schools"
+    ],
+    "potential_drawbacks": [
+      "Large student body may feel overwhelming for some",
+      "Urban environment may not appeal to all students",
+      "Winters can be harsh"
+    ],
+    "notable_metrics": [
+      "Moderately selective admission rate (49%)",
+      "High graduation rate (84%)",
+      "Moderate earnings to price ratio (0.64)"
+    ]
+  },
+  "University of Portland": {
+    "hidden_gem_reasons": [
+      "Strong programs in nursing, engineering, and business",
+      "Beautiful campus overlooking the Willamette River",
+      "Close-knit community with emphasis on service"
+    ],
+    "potential_drawbacks": [
+      "High cost of attendance",
+      "Catholic affiliation may not appeal to all students",
+      "Limited diversity in student body"
+    ],
+    "notable_metrics": [
+      "Very high admission rate (93%)",
+      "Solid graduation rate (79%)",
+      "Very low yield rate (9%)"
+    ]
+  },
+  "University of Scranton": {
+    "hidden_gem_reasons": [
+      "Strong pre-professional programs, especially in health fields",
+      "Jesuit education emphasizing service and ethics",
+      "Close-knit community with strong alumni network"
+    ],
+    "potential_drawbacks": [
+      "High cost of attendance",
+      "Limited diversity in student body",
+      "Less name recognition outside the region"
+    ],
+    "notable_metrics": [
+      "High admission rate (84%)",
+      "High graduation rate (80%)",
+      "Low yield rate (13%)"
+    ]
+  },
+  "University of Utah": {
+    "hidden_gem_reasons": [
+      "Strong programs in computer science, engineering, and business",
+      "Beautiful campus with easy access to outdoor activities",
+      "Growing research profile with opportunities for undergraduates"
+    ],
+    "potential_drawbacks": [
+      "Large student body may feel overwhelming for some",
+      "Less diverse student body compared to some peer institutions",
+      "Mormon influence may not appeal to all students"
+    ],
+    "notable_metrics": [
+      "Very high admission rate (89%)",
+      "Moderate graduation rate (65%)",
+      "Excellent earnings to price ratio (1.25)"
+    ]
+  },
+  "University of Vermont": {
+    "hidden_gem_reasons": [
+      "Strong environmental and health sciences programs",
+      "Beautiful campus with easy access to outdoor activities",
+      "Unique progressive atmosphere"
+    ],
+    "potential_drawbacks": [
+      "High out-of-state tuition",
+      "Harsh winters may not appeal to all students",
+      "Some may find the location lacking in big-city amenities"
+    ],
+    "notable_metrics": [
+      "Moderately selective admission rate (60%)",
+      "Solid graduation rate (76%)",
+      "Good earnings to price ratio (0.83)"
+    ]
+  },
+  "University of the Pacific": {
+    "hidden_gem_reasons": [
+      "Strong programs in dentistry, pharmacy, and music",
+      "Close-knit community with small class sizes",
+      "Accelerated programs available in many fields"
+    ],
+    "potential_drawbacks": [
+      "High cost of attendance",
+      "Location in Stockton may not appeal to all students",
+      "Less name recognition outside the region"
+    ],
+    "notable_metrics": [
+      "Very high admission rate (93%)",
+      "Solid graduation rate (74%)",
+      "Excellent earnings to price ratio (1.13)"
+    ]
+  },
+  "Valparaiso University": {
+    "hidden_gem_reasons": [
+      "Strong engineering and nursing programs",
+      "Close-knit community with emphasis on service",
+      "Good merit scholarships available"
+    ],
+    "potential_drawbacks": [
+      "High cost of attendance",
+      "Lutheran affiliation may not appeal to all students",
+      "Small town setting may not appeal to all"
+    ],
+    "notable_metrics": [
+      "Very high admission rate (94%)",
+      "Solid graduation rate (70%)",
+      "Very low yield rate (9%)"
+    ]
+  },
+  "Virginia Polytechnic Institute and State University": {
+    "hidden_gem_reasons": [
+      "Excellent engineering and agriculture programs",
+      "Strong sense of community and school spirit",
+      "Beautiful campus with outdoor recreation opportunities"
+    ],
+    "potential_drawbacks": [
+      "Large student body may feel overwhelming for some",
+      "Rural location may not appeal to all students",
+      "Highly competitive for popular majors"
+    ],
+    "notable_metrics": [
+      "Moderately selective admission rate (57%)",
+      "Very high graduation rate (86%)",
+      "Good earnings to price ratio (0.93)"
+    ]
+  },
+  "Washington State University": {
+    "hidden_gem_reasons": [
+      "Strong programs in agriculture, veterinary medicine, and communications",
+      "Friendly campus atmosphere with strong school spirit",
+      "Good value for in-state students"
+    ],
+    "potential_drawbacks": [
+      "Remote location may not appeal to all students",
+      "Winters can be harsh",
+      "Some programs may be less developed than others"
+    ],
+    "notable_metrics": [
+      "High admission rate (83%)",
+      "Moderate graduation rate (62%)",
+      "Excellent earnings to price ratio (1.83)"
+    ]
+  },
+  "Western Carolina University": {
+    "hidden_gem_reasons": [
+      "Strong programs in engineering, business, and health sciences",
+      "Beautiful mountain setting with outdoor recreation opportunities",
+      "Affordable tuition with good scholarship opportunities"
+    ],
+    "potential_drawbacks": [
+      "Rural location may not appeal to all students",
+      "Less diverse student body compared to some peer institutions",
+      "Some programs may be less developed than at larger universities"
+    ],
+    "notable_metrics": [
+      "High admission rate (85%)",
+      "Moderate graduation rate (61%)",
+      "Good earnings to price ratio (0.82)"
+    ]
+  },
+  "Wichita State University": {
+    "hidden_gem_reasons": [
+      "Strong programs in engineering and business",
+      "Emphasis on cooperative education and internships",
+      "Affordable tuition with good scholarship opportunities"
+    ],
+    "potential_drawbacks": [
+      "Large commuter population may affect campus life",
+      "Less diverse program offerings compared to larger universities",
+      "May have less name recognition outside the region"
+    ],
+    "notable_metrics": [
+      "Very high admission rate (95%)",
+      "Low graduation rate (52%)",
+      "Good earnings to price ratio (0.88)"
+    ]
+  },
+  "Willamette University": {
+    "hidden_gem_reasons": [
+      "Strong liberal arts education with good pre-professional preparation",
+      "Beautiful campus adjacent to the Oregon State Capitol",
+      "Close-knit community with emphasis on sustainability"
+    ],
+    "potential_drawbacks": [
+      "High cost of attendance",
+      "Limited diversity in program offerings",
+      "May have less name recognition outside the region"
+    ],
+    "notable_metrics": [
+      "High admission rate (81%)",
+      "Solid graduation rate (76%)",
+      "Low earnings to price ratio (0.45)"
+    ]
+  },
+  "Wittenberg University": {
+    "hidden_gem_reasons": [
+      "Strong liberal arts education with emphasis on personal development",
+      "Close-knit community with small class sizes",
+      "Good pre-professional programs, especially pre-med"
+    ],
+    "potential_drawbacks": [
+      "High cost of attendance",
+      "Limited diversity in program offerings",
+      "Small town setting may not appeal to all students"
+    ],
+    "notable_metrics": [
+      "Very high admission rate (94%)",
+      "Moderate graduation rate (57%)",
+      "Moderate earnings to price ratio (0.66)"
+    ]
+  },
+  "Xavier University": {
+    "hidden_gem_reasons": [
+      "Strong programs in business and health sciences",
+      "Jesuit education emphasizing service and ethics",
+      "Close-knit community with emphasis on personal attention"
+    ],
+    "potential_drawbacks": [
+      "High cost of attendance",
+      "Religious affiliation may not appeal to all students",
+      "Limited diversity in student body"
+    ],
+    "notable_metrics": [
+      "High admission rate (85%)",
+      "Solid graduation rate (74%)",
+      "Very low yield rate (9%)"
+    ]
+  }
+,
+  "California Polytechnic State University-San Luis Obispo": {
+    "hidden_gem_reasons": [
+      "Strong emphasis on 'learn by doing' philosophy",
+      "Excellent engineering and agriculture programs",
+      "Beautiful coastal location in California"
+    ],
+    "potential_drawbacks": [
+      "Highly competitive admission process",
+      "Limited diversity in student body",
+      "Isolated location may not appeal to all students"
+    ],
+    "notable_metrics": [
+      "Very selective admission rate (30%)",
+      "High graduation rate (85%)",
+      "Strong earnings to price ratio (1.04)"
+    ]
+  },
+  "California State Polytechnic University-Pomona": {
+    "hidden_gem_reasons": [
+      "Strong polytechnic programs at a public university price",
+      "Diverse student body",
+      "Close proximity to Los Angeles"
+    ],
+    "potential_drawbacks": [
+      "Less name recognition compared to other California schools",
+      "Large commuter population may affect campus life",
+      "Some programs may be less developed than others"
+    ],
+    "notable_metrics": [
+      "High earnings to price ratio (1.44)",
+      "Affordable four-year cost ($46,960)",
+      "Moderate admission rate (55%)"
+    ]
+  },
+  "California State University-Chico": {
+    "hidden_gem_reasons": [
+      "Strong sense of community in a college town setting",
+      "Beautiful campus with outdoor recreation opportunities",
+      "Solid academic programs at an affordable price"
+    ],
+    "potential_drawbacks": [
+      "Party school reputation",
+      "Limited cultural diversity in the surrounding area",
+      "Some may find the location too remote"
+    ],
+    "notable_metrics": [
+      "Very high admission rate (95%)",
+      "Good earnings to price ratio (1.14)",
+      "Low yield rate (10%)"
+    ]
+  },
+  "Case Western Reserve University": {
+    "hidden_gem_reasons": [
+      "Strong STEM programs, especially in engineering and medicine",
+      "Abundant research opportunities for undergraduates",
+      "Collaborative rather than competitive academic environment"
+    ],
+    "potential_drawbacks": [
+      "High cost of attendance",
+      "Cleveland location may not appeal to all students",
+      "Rigorous academics may be overwhelming for some"
+    ],
+    "notable_metrics": [
+      "Selective admission rate (27%)",
+      "High graduation rate (86%)",
+      "Lower earnings to price ratio (0.54)"
+    ]
+  },
+  "Clark University": {
+    "hidden_gem_reasons": [
+      "Strong focus on interdisciplinary studies",
+      "Generous financial aid packages",
+      "Fifth-year tuition-free master's program"
+    ],
+    "potential_drawbacks": [
+      "Less name recognition outside of New England",
+      "Worcester location may not appeal to all students",
+      "Smaller range of majors compared to larger universities"
+    ],
+    "notable_metrics": [
+      "Moderate admission rate (50%)",
+      "Solid graduation rate (76%)",
+      "Lower earnings to price ratio (0.50)"
+    ]
+  },
+  "Clarkson University": {
+    "hidden_gem_reasons": [
+      "Strong engineering and business programs",
+      "High job placement rates",
+      "Emphasis on hands-on learning and internships"
+    ],
+    "potential_drawbacks": [
+      "Remote location in upstate New York",
+      "Harsh winters may not appeal to all students",
+      "Less diverse student body"
+    ],
+    "notable_metrics": [
+      "High admission rate (78%)",
+      "Solid graduation rate (73%)",
+      "Lower yield rate (12%)"
+    ]
+  },
+  "Clemson University": {
+    "hidden_gem_reasons": [
+      "Strong sense of community and school spirit",
+      "Beautiful campus in a college-town setting",
+      "Solid engineering and business programs"
+    ],
+    "potential_drawbacks": [
+      "Less diverse student body",
+      "Strong focus on sports may not appeal to all",
+      "Some may find the location too rural"
+    ],
+    "notable_metrics": [
+      "Competitive admission rate (43%)",
+      "High graduation rate (85%)",
+      "Good earnings to price ratio (0.79)"
+    ]
+  },
+  "Creighton University": {
+    "hidden_gem_reasons": [
+      "Strong pre-professional programs (especially pre-med and pre-law)",
+      "Jesuit education emphasizing service and ethics",
+      "Close-knit community in a midsize city"
+    ],
+    "potential_drawbacks": [
+      "High cost of attendance for a Midwest school",
+      "Religious affiliation may not appeal to all students",
+      "Less name recognition outside the region"
+    ],
+    "notable_metrics": [
+      "High admission rate (76%)",
+      "Solid graduation rate (78%)",
+      "Lower yield rate (17%)"
+    ]
+  },
+  "DePauw University": {
+    "hidden_gem_reasons": [
+      "Strong liberal arts education with pre-professional opportunities",
+      "Close faculty-student relationships",
+      "Robust study abroad programs"
+    ],
+    "potential_drawbacks": [
+      "Rural location may not appeal to all students",
+      "Less diverse student body",
+      "Greek life plays a significant role, which may not suit everyone"
+    ],
+    "notable_metrics": [
+      "Moderate admission rate (66%)",
+      "High graduation rate (79%)",
+      "Low yield rate (14%)"
+    ]
+  },
+  "Denison University": {
+    "hidden_gem_reasons": [
+      "Rigorous liberal arts education",
+      "Strong emphasis on undergraduate research",
+      "Beautiful hilltop campus"
+    ],
+    "potential_drawbacks": [
+      "Rural location may feel isolating for some",
+      "High cost of attendance",
+      "Less name recognition outside the Midwest"
+    ],
+    "notable_metrics": [
+      "Highly selective admission rate (22%)",
+      "High graduation rate (85%)",
+      "Surprisingly high yield rate (25%) for a small liberal arts college"
+    ]
+  }
+,
+  "Arizona State University": {
+    "hidden_gem_reasons": [
+      "Innovation-focused curriculum",
+      "Strong online program offerings",
+      "Extensive research opportunities for undergrads"
+    ],
+    "potential_drawbacks": [
+      "Very large student body may feel overwhelming",
+      "Party school reputation",
+      "Less personalized attention due to size"
+    ],
+    "notable_metrics": [
+      "High earnings to price ratio (1.15)",
+      "Very high admission rate (90%)",
+      "Low yield rate (25%)"
+    ]
+  },
+  "Augustana College": {
+    "hidden_gem_reasons": [
+      "Strong liberal arts core curriculum",
+      "Close-knit community in a mid-sized city",
+      "Unique trimester system"
+    ],
+    "potential_drawbacks": [
+      "Limited name recognition outside the Midwest",
+      "Fewer specialized majors compared to larger universities",
+      "Small town may feel limiting for some"
+    ],
+    "notable_metrics": [
+      "Solid graduation rate (78%)",
+      "Low yield rate (14%)"
+    ]
+  },
+  "Austin College": {
+    "hidden_gem_reasons": [
+      "Robust study abroad program",
+      "Small classes with high faculty interaction",
+      "Strong pre-professional programs"
+    ],
+    "potential_drawbacks": [
+      "Limited diversity in student body",
+      "Lack of \"big-city\" amenities in Sherman, TX",
+      "Greek life plays a significant role, may not appeal to all"
+    ],
+    "notable_metrics": [
+      "Competitive admission rate (54%)",
+      "Very low yield rate (12%)"
+    ]
+  },
+  "Babson College": {
+    "hidden_gem_reasons": [
+      "World-renowned entrepreneurship education",
+      "Strong alumni network in business world",
+      "Collaborative, project-based learning"
+    ],
+    "potential_drawbacks": [
+      "Heavy focus on business may not suit all students",
+      "Lack of traditional liberal arts offerings",
+      "Suburban location may feel isolating"
+    ],
+    "notable_metrics": [
+      "Highly selective (22% admission rate)",
+      "Exceptional graduation rate (93%)",
+      "High yield rate (39%)"
+    ]
+  },
+  "Bentley University": {
+    "hidden_gem_reasons": [
+      "Strong integration of business and liberal arts",
+      "Excellent career services and internship opportunities",
+      "High job placement rates"
+    ],
+    "potential_drawbacks": [
+      "May be too business-focused for some students",
+      "Suburban location limits easy access to Boston",
+      "Less diverse student body"
+    ],
+    "notable_metrics": [
+      "Very high graduation rate (88%)",
+      "High four-year cost ($157,748)"
+    ]
+  },
+  "Berea College": {
+    "hidden_gem_reasons": [
+      "No-tuition promise for all students",
+      "Unique work-study program integrated into curriculum",
+      "Strong commitment to sustainability"
+    ],
+    "potential_drawbacks": [
+      "Required work program may not appeal to all",
+      "Limited course offerings compared to larger schools",
+      "Rural location may feel isolating"
+    ],
+    "notable_metrics": [
+      "Exceptionally high earnings to price ratio (2.96)",
+      "Very low four-year cost ($13,768)",
+      "High yield rate (65%)"
+    ]
+  },
+  "Berry College": {
+    "hidden_gem_reasons": [
+      "Expansive, beautiful campus (largest contiguous college campus in the US)",
+      "Strong emphasis on practical work experience",
+      "Robust scholarship offerings"
+    ],
+    "potential_drawbacks": [
+      "Rural location may feel isolating",
+      "Limited diversity in student body",
+      "Conservative campus culture may not suit all"
+    ],
+    "notable_metrics": [
+      "Lower earnings to price ratio (0.54)",
+      "Moderate admission rate (66%)"
+    ]
+  },
+  "Binghamton University": {
+    "hidden_gem_reasons": [
+      "Strong academics at a public school price",
+      "Vibrant research opportunities for undergrads",
+      "Diverse student body"
+    ],
+    "potential_drawbacks": [
+      "\"College town\" feel may be too small for some",
+      "Harsh winters",
+      "Competitive academic environment"
+    ],
+    "notable_metrics": [
+      "Competitive admission rate (42%)",
+      "High graduation rate (83%)"
+    ]
+  },
+  "Butler University": {
+    "hidden_gem_reasons": [
+      "Strong community engagement opportunities",
+      "Excellent pharmacy and performing arts programs",
+      "Big-time sports in a smaller school setting"
+    ],
+    "potential_drawbacks": [
+      "Greek life plays a significant role, may not appeal to all",
+      "Less diverse student body",
+      "Some programs less developed than others"
+    ],
+    "notable_metrics": [
+      "High admission rate (82%)",
+      "Solid graduation rate (81%)",
+      "Very low yield rate (11%)"
+    ]
+  },
+  "CUNY Bernard M Baruch College": {
+    "hidden_gem_reasons": [
+      "Strong business program in the heart of NYC",
+      "Extremely diverse student body",
+      "Excellent value for a top-tier education"
+    ],
+    "potential_drawbacks": [
+      "Limited campus life due to commuter population",
+      "Competitive, cutthroat academic environment",
+      "Limited housing options"
+    ],
+    "notable_metrics": [
+      "Exceptionally high earnings to price ratio (9.18)",
+      "Very low four-year cost ($7,744)"
+    ]
+  }
+,
+  "College of Charleston": {
+    "hidden_gem_reasons": [
+      "Strong liberal arts education in a historic urban setting",
+      "Excellent marine biology and environmental science programs",
+      "Vibrant campus life with a unique blend of history and modernity"
+    ],
+    "potential_drawbacks": [
+      "Limited diversity in student body",
+      "Some programs may be less developed than at larger universities",
+      "High cost of living in Charleston"
+    ],
+    "notable_metrics": [
+      "Moderately selective admission rate",
+      "Strong retention and graduation rates",
+      "Good value for in-state students"
+    ]
+  },
+  "Appalachian State University": {
+    "hidden_gem_reasons": [
+      "Strong programs in education, business, and sustainable development",
+      "Beautiful mountain setting with outdoor recreation opportunities",
+      "Emphasis on sustainability and environmental stewardship"
+    ],
+    "potential_drawbacks": [
+      "Remote location may not appeal to all students",
+      "Winters can be harsh",
+      "Some programs may be less developed than at larger research universities"
+    ],
+    "notable_metrics": [
+      "Moderately selective admission rate",
+      "High retention rates",
+      "Good value for in-state students"
+    ]
+  },
+  "University of North Florida": {
+    "hidden_gem_reasons": [
+      "Strong programs in business, nursing, and coastal biology",
+      "Beautiful campus with nature trails and close proximity to beaches",
+      "Emphasis on undergraduate research and internships"
+    ],
+    "potential_drawbacks": [
+      "Less name recognition compared to other Florida state universities",
+      "Some programs may be less developed than at larger universities",
+      "Large commuter population may affect campus life"
+    ],
+    "notable_metrics": [
+      "Moderately selective admission rate",
+      "Good graduation rates",
+      "Excellent value for in-state students"
+    ]
+  },
+  "University of Tulsa": {
+    "hidden_gem_reasons": [
+      "Strong programs in engineering, computer science, and energy studies",
+      "Low student-to-faculty ratio with personalized attention",
+      "Generous merit scholarships and need-based aid"
+    ],
+    "potential_drawbacks": [
+      "High cost of attendance for a private university",
+      "Limited diversity in student body",
+      "Some may find the location lacking in big-city amenities"
+    ],
+    "notable_metrics": [
+      "Moderately selective admission rate",
+      "High graduation rates",
+      "Strong job placement rates in certain fields"
+    ]
+  },
+  "University of Dallas": {
+    "hidden_gem_reasons": [
+      "Rigorous core curriculum based on Western classics",
+      "Strong Catholic identity with emphasis on liberal arts",
+      "Unique Rome program for sophomore year abroad"
+    ],
+    "potential_drawbacks": [
+      "Conservative campus culture may not appeal to all students",
+      "Limited diversity in student body",
+      "High cost of attendance for a private university"
+    ],
+    "notable_metrics": [
+      "Moderately selective admission rate",
+      "High graduation rates",
+      "Strong graduate school placement rates"
+    ]
+  }
+,
+  "Dickinson College": {
+    "hidden_gem_reasons": [
+      "Strong focus on global education and sustainability",
+      "Unique 'useful education' philosophy combining liberal arts with practical skills",
+      "Beautiful historic campus"
+    ],
+    "potential_drawbacks": [
+      "High cost of attendance",
+      "Small town location may not appeal to all students",
+      "Less name recognition compared to some peer institutions"
+    ],
+    "notable_metrics": [
+      "Selective admission rate (35%)",
+      "High graduation rate (84%)",
+      "Surprisingly high earnings to price ratio for a liberal arts college (1.17)"
+    ]
+  },
+  "Drexel University": {
+    "hidden_gem_reasons": [
+      "Renowned co-op program providing extensive work experience",
+      "Strong STEM and business programs",
+      "Urban campus with easy access to Philadelphia's resources"
+    ],
+    "potential_drawbacks": [
+      "Fast-paced quarter system may be challenging for some students",
+      "High cost of attendance",
+      "Co-op program extends time to graduation for most students"
+    ],
+    "notable_metrics": [
+      "High admission rate (80%)",
+      "Solid graduation rate (78%)",
+      "Good earnings to price ratio (0.86)"
+    ]
+  },
+  "Duquesne University": {
+    "hidden_gem_reasons": [
+      "Strong programs in pharmacy, law, and health sciences",
+      "Emphasis on community service and ethical leadership",
+      "Urban campus with a close-knit community feel"
+    ],
+    "potential_drawbacks": [
+      "High cost of attendance",
+      "Catholic affiliation may not appeal to all students",
+      "Less diverse student body"
+    ],
+    "notable_metrics": [
+      "High admission rate (87%)",
+      "Solid graduation rate (78%)",
+      "Low yield rate (13%)"
+    ]
+  },
+  "Eastern New Mexico University-Main Campus": {
+    "hidden_gem_reasons": [
+      "Affordable tuition, especially for a four-year institution",
+      "Strong programs in communication and education",
+      "Supportive environment for first-generation college students"
+    ],
+    "potential_drawbacks": [
+      "Remote location may not appeal to all students",
+      "Limited program offerings compared to larger universities",
+      "Lower graduation rate"
+    ],
+    "notable_metrics": [
+      "Selective admission rate (28%)",
+      "Very high earnings to price ratio (1.90)",
+      "Low four-year cost ($19,161)"
+    ]
+  },
+  "Elon University": {
+    "hidden_gem_reasons": [
+      "Strong emphasis on experiential learning and study abroad",
+      "Beautiful campus with state-of-the-art facilities",
+      "Renowned programs in business, communications, and education"
+    ],
+    "potential_drawbacks": [
+      "High cost of attendance",
+      "Less diverse student body",
+      "Location may feel isolated for some students"
+    ],
+    "notable_metrics": [
+      "Moderate admission rate (74%)",
+      "High graduation rate (83%)",
+      "Low yield rate (13%)"
+    ]
+  },
+  "Fairfield University": {
+    "hidden_gem_reasons": [
+      "Strong liberal arts education with a focus on social justice",
+      "Beautiful campus near the Connecticut coastline",
+      "Solid business and nursing programs"
+    ],
+    "potential_drawbacks": [
+      "High cost of attendance",
+      "Jesuit affiliation may not appeal to all students",
+      "Less diverse student body"
+    ],
+    "notable_metrics": [
+      "Moderate admission rate (52%)",
+      "High graduation rate (84%)",
+      "Very high four-year cost ($174,276)"
+    ]
+  },
+  "Florida International University": {
+    "hidden_gem_reasons": [
+      "Diverse student body with strong international focus",
+      "Excellent programs in business, engineering, and hospitality management",
+      "Located in vibrant Miami with many internship opportunities"
+    ],
+    "potential_drawbacks": [
+      "Large student body may feel overwhelming",
+      "Primarily a commuter school, which may affect campus life",
+      "Some programs may be impacted due to high enrollment"
+    ],
+    "notable_metrics": [
+      "Exceptionally high earnings to price ratio (2.33)",
+      "Very affordable four-year cost ($24,928)",
+      "High yield rate (40%)"
+    ]
+  },
+  "Fordham University": {
+    "hidden_gem_reasons": [
+      "Jesuit education emphasizing ethics and social justice",
+      "Strong programs in business, theater, and pre-law",
+      "Multiple campuses offering both urban and suburban experiences"
+    ],
+    "potential_drawbacks": [
+      "High cost of attendance",
+      "Religious affiliation may not appeal to all students",
+      "Competitive academic environment"
+    ],
+    "notable_metrics": [
+      "Moderate admission rate (54%)",
+      "High graduation rate (83%)",
+      "Low yield rate (10%)"
+    ]
+  },
+  "Franklin W Olin College of Engineering": {
+    "hidden_gem_reasons": [
+      "Innovative project-based curriculum focused on engineering",
+      "Small class sizes with close faculty interaction",
+      "Emphasis on entrepreneurship and interdisciplinary collaboration"
+    ],
+    "potential_drawbacks": [
+      "Extremely small size may limit social and academic opportunities",
+      "Focused curriculum may not suit students unsure about engineering",
+      "Suburban location may not appeal to all students"
+    ],
+    "notable_metrics": [
+      "Highly selective admission rate (19%)",
+      "Exceptional graduation rate (94%)",
+      "High yield rate (45%)"
+    ]
+  },
+  "The Cooper Union for the Advancement of Science and Art": {
+    "hidden_gem_reasons": [
+      "Prestigious programs in architecture, art, and engineering",
+      "Generous scholarship policy for all admitted students",
+      "Located in the heart of New York City"
+    ],
+    "potential_drawbacks": [
+      "Extremely competitive admission process",
+      "Limited program offerings",
+      "Intense academic environment may not suit all students"
+    ],
+    "notable_metrics": [
+      "Highly selective admission rate (22%)",
+      "High graduation rate (83%)",
+      "Very high yield rate (54%)"
+    ]
+  }
+,
+  "Furman University": {
+    "hidden_gem_reasons": [
+      "Strong liberal arts education with a focus on undergraduate research",
+      "Beautiful campus with a lake and extensive green spaces",
+      "Robust study abroad programs"
+    ],
+    "potential_drawbacks": [
+      "High cost of attendance",
+      "Less diverse student body",
+      "Location may feel isolated for some students"
+    ],
+    "notable_metrics": [
+      "Moderately selective admission rate (67%)",
+      "High graduation rate (85%)",
+      "Low yield rate (13%)"
+    ]
+  },
+  "George Mason University": {
+    "hidden_gem_reasons": [
+      "Diverse student body with strong international representation",
+      "Proximity to Washington D.C. offers unique internship opportunities",
+      "Strong programs in economics, public policy, and performing arts"
+    ],
+    "potential_drawbacks": [
+      "Large student body may feel overwhelming",
+      "Primarily a commuter school, which may affect campus life",
+      "Less traditional 'college town' experience"
+    ],
+    "notable_metrics": [
+      "High admission rate (90%)",
+      "Good earnings to price ratio (0.94)",
+      "Solid graduation rate (71%)"
+    ]
+  },
+  "Gettysburg College": {
+    "hidden_gem_reasons": [
+      "Strong liberal arts education with emphasis on critical thinking",
+      "Rich history and proximity to Gettysburg National Military Park",
+      "Robust first-year experience and career development programs"
+    ],
+    "potential_drawbacks": [
+      "High cost of attendance",
+      "Small town location may not appeal to all students",
+      "Less diverse student body"
+    ],
+    "notable_metrics": [
+      "Moderately selective admission rate (56%)",
+      "High graduation rate (82%)",
+      "Relatively high yield rate (20%) for a small liberal arts college"
+    ]
+  },
+  "Gonzaga University": {
+    "hidden_gem_reasons": [
+      "Strong sense of community and school spirit",
+      "Excellent study abroad programs",
+      "Jesuit education emphasizing social justice and service"
+    ],
+    "potential_drawbacks": [
+      "High cost of attendance",
+      "Religious affiliation may not appeal to all students",
+      "Location in Spokane may feel isolated for some"
+    ],
+    "notable_metrics": [
+      "Moderately selective admission rate (70%)",
+      "Very high graduation rate (88%)",
+      "Solid yield rate (18%)"
+    ]
+  },
+  "Grand Valley State University": {
+    "hidden_gem_reasons": [
+      "Beautiful campus with modern facilities",
+      "Strong programs in health sciences and education",
+      "Emphasis on undergraduate research and hands-on learning"
+    ],
+    "potential_drawbacks": [
+      "Less name recognition outside of Michigan",
+      "Suburban location may not appeal to all students",
+      "Some programs may be less developed than at larger universities"
+    ],
+    "notable_metrics": [
+      "High admission rate (90%)",
+      "Good earnings to price ratio (0.77)",
+      "Moderate graduation rate (66%)"
+    ]
+  },
+  "Hofstra University": {
+    "hidden_gem_reasons": [
+      "Proximity to New York City offers internship and cultural opportunities",
+      "Strong programs in business, communications, and performing arts",
+      "Emphasis on experiential learning"
+    ],
+    "potential_drawbacks": [
+      "High cost of attendance",
+      "Suburban campus may not appeal to students seeking an urban experience",
+      "Less school spirit compared to some peer institutions"
+    ],
+    "notable_metrics": [
+      "Moderately selective admission rate (69%)",
+      "Moderate graduation rate (68%)",
+      "Very low yield rate (10%)"
+    ]
+  },
+  "Howard University": {
+    "hidden_gem_reasons": [
+      "Prestigious historically Black university with strong alumni network",
+      "Located in Washington D.C. with access to unique opportunities",
+      "Strong programs in business, communications, and STEM fields"
+    ],
+    "potential_drawbacks": [
+      "High cost of attendance",
+      "Some concerns about administrative efficiency",
+      "Urban campus may not appeal to all students"
+    ],
+    "notable_metrics": [
+      "Moderately selective admission rate (53%)",
+      "Solid graduation rate (70%)",
+      "Lower earnings to price ratio (0.32)"
+    ]
+  },
+  "Illinois Institute of Technology": {
+    "hidden_gem_reasons": [
+      "Strong STEM and architecture programs",
+      "Emphasis on hands-on, project-based learning",
+      "Located in Chicago with access to numerous internship opportunities"
+    ],
+    "potential_drawbacks": [
+      "Less diverse academic offerings outside of STEM fields",
+      "Campus atmosphere may feel less lively compared to liberal arts colleges",
+      "Urban location may not appeal to all students"
+    ],
+    "notable_metrics": [
+      "Moderately selective admission rate (61%)",
+      "Solid graduation rate (75%)",
+      "Good earnings to price ratio (0.93)"
+    ]
+  },
+  "Indiana University-Bloomington": {
+    "hidden_gem_reasons": [
+      "Strong programs in business, music, and media studies",
+      "Beautiful campus with vibrant student life",
+      "Excellent study abroad opportunities"
+    ],
+    "potential_drawbacks": [
+      "Large student body may feel overwhelming",
+      "Strong party school reputation may not appeal to all",
+      "Some programs may be highly competitive to enter"
+    ],
+    "notable_metrics": [
+      "High admission rate (82%)",
+      "Good earnings to price ratio (1.08)",
+      "High graduation rate (81%)"
+    ]
+  },
+  "Ithaca College": {
+    "hidden_gem_reasons": [
+      "Strong programs in communications, music, and physical therapy",
+      "Beautiful campus overlooking Cayuga Lake",
+      "Emphasis on experiential learning and internships"
+    ],
+    "potential_drawbacks": [
+      "High cost of attendance",
+      "Isolated location may not appeal to all students",
+      "Less diverse student body"
+    ],
+    "notable_metrics": [
+      "Moderately selective admission rate (75%)",
+      "Solid graduation rate (74%)",
+      "Low yield rate (14%)"
+    ]
+  }
+,
+  "James Madison University": {
+    "hidden_gem_reasons": [
+      "Strong sense of community and school spirit",
+      "Excellent programs in business, health sciences, and education",
+      "Beautiful campus with state-of-the-art facilities"
+    ],
+    "potential_drawbacks": [
+      "Some programs may be highly competitive to enter",
+      "Less diverse student body compared to some peer institutions",
+      "May be less known outside the Mid-Atlantic region"
+    ],
+    "notable_metrics": [
+      "Moderately selective admission rate (78%)",
+      "High graduation rate (81%)",
+      "Good earnings to price ratio (0.73)"
+    ]
+  },
+  "Kalamazoo College": {
+    "hidden_gem_reasons": [
+      "Rigorous liberal arts education with a unique K-Plan curriculum",
+      "Strong emphasis on experiential learning and study abroad",
+      "Close-knit community with small class sizes"
+    ],
+    "potential_drawbacks": [
+      "High cost of attendance for a small liberal arts college",
+      "Limited diversity in program offerings",
+      "Intense academic environment may not suit all students"
+    ],
+    "notable_metrics": [
+      "Moderately selective admission rate (79%)",
+      "High graduation rate (80%)",
+      "Low yield rate (13%)"
+    ]
+  },
+  "Kansas State University": {
+    "hidden_gem_reasons": [
+      "Strong programs in agriculture, engineering, and veterinary medicine",
+      "Friendly campus atmosphere with a strong sense of community",
+      "Excellent undergraduate research opportunities"
+    ],
+    "potential_drawbacks": [
+      "Some programs may be less developed than at larger research universities",
+      "Greek life plays a significant role, which may not appeal to everyone",
+      "May have less name recognition outside the Midwest"
+    ],
+    "notable_metrics": [
+      "Very high admission rate (95%)",
+      "Moderate graduation rate (69%)",
+      "High yield rate (32%)"
+    ]
+  },
+  "Lewis & Clark College": {
+    "hidden_gem_reasons": [
+      "Strong environmental studies and international affairs programs",
+      "Emphasis on undergraduate research and study abroad",
+      "Close-knit community with a focus on sustainability"
+    ],
+    "potential_drawbacks": [
+      "High cost of attendance",
+      "Limited diversity in program offerings",
+      "Intense academic environment may not suit all students"
+    ],
+    "notable_metrics": [
+      "Moderately selective admission rate (69%)",
+      "Solid graduation rate (73%)",
+      "Low earnings to price ratio (0.36)"
+    ]
+  },
+  "Loyola University Maryland": {
+    "hidden_gem_reasons": [
+      "Strong liberal arts education with a Jesuit focus",
+      "Excellent business and communication programs",
+      "Emphasis on service learning and community engagement"
+    ],
+    "potential_drawbacks": [
+      "High cost of attendance",
+      "Religious affiliation may not appeal to all students",
+      "Less diverse student body compared to some peer institutions"
+    ],
+    "notable_metrics": [
+      "High admission rate (83%)",
+      "Solid graduation rate (79%)",
+      "Low yield rate (16%)"
+    ]
+  },
+  "Macalester College": {
+    "hidden_gem_reasons": [
+      "Rigorous academics with a strong emphasis on internationalism",
+      "Diverse student body with a high percentage of international students",
+      "Strong programs in social sciences and humanities"
+    ],
+    "potential_drawbacks": [
+      "High cost of attendance",
+      "Intense academic environment may not suit all students",
+      "Limited diversity in program offerings compared to larger universities"
+    ],
+    "notable_metrics": [
+      "Highly selective admission rate (28%)",
+      "Very high graduation rate (88%)",
+      "Solid yield rate (23%)"
+    ]
+  },
+  "Manhattan College": {
+    "hidden_gem_reasons": [
+      "Strong engineering and business programs",
+      "Lasallian education emphasizing ethics and social justice",
+      "Easy access to internship opportunities in New York City"
+    ],
+    "potential_drawbacks": [
+      "High cost of attendance",
+      "Religious affiliation may not appeal to all students",
+      "Limited campus life due to its location and commuter population"
+    ],
+    "notable_metrics": [
+      "High admission rate (82%)",
+      "Solid graduation rate (72%)",
+      "Very low yield rate (9%)"
+    ]
+  },
+  "Marquette University": {
+    "hidden_gem_reasons": [
+      "Strong programs in business, nursing, and physical therapy",
+      "Jesuit education emphasizing service and leadership",
+      "Vibrant campus life with strong basketball tradition"
+    ],
+    "potential_drawbacks": [
+      "High cost of attendance",
+      "Religious affiliation may not appeal to all students",
+      "Intense academic environment in certain programs"
+    ],
+    "notable_metrics": [
+      "High admission rate (87%)",
+      "Very good graduation rate (83%)",
+      "Low yield rate (14%)"
+    ]
+  },
+  "Miami University-Oxford": {
+    "hidden_gem_reasons": [
+      "Strong undergraduate teaching with a liberal arts focus",
+      "Beautiful campus with Georgian-style architecture",
+      "Excellent programs in business and education"
+    ],
+    "potential_drawbacks": [
+      "Less diverse student body compared to some peer institutions",
+      "Strong Greek life presence may not appeal to all students",
+      "May have less name recognition outside the Midwest"
+    ],
+    "notable_metrics": [
+      "High admission rate (88%)",
+      "Very good graduation rate (81%)",
+      "Moderate earnings to price ratio (0.63)"
+    ]
+  },
+  "Michigan State University": {
+    "hidden_gem_reasons": [
+      "Wide range of strong academic programs, particularly in agriculture and education",
+      "Extensive research opportunities for undergraduates",
+      "Vibrant campus life with strong athletic traditions"
+    ],
+    "potential_drawbacks": [
+      "Large student body may feel overwhelming for some",
+      "Some intro classes may be very large",
+      "Competitive atmosphere in certain programs"
+    ],
+    "notable_metrics": [
+      "High admission rate (88%)",
+      "Very good graduation rate (82%)",
+      "Excellent earnings to price ratio (1.48)"
+    ]
+  }
+,
+  "Rochester Institute of Technology": {
+    "hidden_gem_reasons": [
+      "Strong programs in engineering, computing, and design",
+      "Innovative co-op program providing extensive work experience",
+      "Unique blend of technology, art, and design programs"
+    ],
+    "potential_drawbacks": [
+      "Heavy focus on STEM may not appeal to all students",
+      "Rigorous academic environment can be challenging",
+      "Campus culture may feel less traditional"
+    ],
+    "notable_metrics": [
+      "Moderately selective admission rate (67%)",
+      "Solid graduation rate (72%)",
+      "Moderate earnings to price ratio (0.56)"
+    ]
+  },
+  "Rose-Hulman Institute of Technology": {
+    "hidden_gem_reasons": [
+      "Consistently top-ranked undergraduate engineering program",
+      "Small class sizes with high faculty-student interaction",
+      "Strong emphasis on hands-on, project-based learning"
+    ],
+    "potential_drawbacks": [
+      "Limited program diversity outside of STEM fields",
+      "High cost of attendance",
+      "Intense academic environment may not suit all students"
+    ],
+    "notable_metrics": [
+      "Moderately selective admission rate (73%)",
+      "High graduation rate (81%)",
+      "Low yield rate (16%)"
+    ]
+  },
+  "Rowan University": {
+    "hidden_gem_reasons": [
+      "Growing research profile with strong engineering programs",
+      "Emphasis on hands-on learning and internships",
+      "Good value for in-state students"
+    ],
+    "potential_drawbacks": [
+      "Rapid growth may lead to some growing pains",
+      "Less name recognition outside the region",
+      "Some facilities may be older or under renovation"
+    ],
+    "notable_metrics": [
+      "Moderately selective admission rate (77%)",
+      "Solid graduation rate (68%)",
+      "Good yield rate (20%)"
+    ]
+  },
+  "Rutgers University-New Brunswick": {
+    "hidden_gem_reasons": [
+      "Wide range of strong academic programs",
+      "Extensive research opportunities for undergraduates",
+      "Diverse student body with vibrant campus life"
+    ],
+    "potential_drawbacks": [
+      "Large student body may feel overwhelming for some",
+      "Navigating multiple campuses can be challenging",
+      "Some intro classes may be very large"
+    ],
+    "notable_metrics": [
+      "Moderately selective admission rate (66%)",
+      "High graduation rate (84%)",
+      "Excellent earnings to price ratio (1.2)"
+    ]
+  },
+  "SUNY at Albany": {
+    "hidden_gem_reasons": [
+      "Strong programs in criminal justice, public affairs, and atmospheric sciences",
+      "Diverse student body with numerous cultural activities",
+      "Good value for in-state students"
+    ],
+    "potential_drawbacks": [
+      "Some facilities may be older compared to peer institutions",
+      "Less name recognition outside the Northeast",
+      "Campus atmosphere may feel less traditional"
+    ],
+    "notable_metrics": [
+      "Moderately selective admission rate (68%)",
+      "Solid graduation rate (66%)",
+      "Good earnings to price ratio (0.91)"
+    ]
+  },
+  "Saint Mary's College of California": {
+    "hidden_gem_reasons": [
+      "Strong liberal arts education with a focus on social justice",
+      "Renowned Great Books program",
+      "Close-knit community with small class sizes"
+    ],
+    "potential_drawbacks": [
+      "High cost of attendance",
+      "Limited diversity in program offerings",
+      "Religious affiliation may not appeal to all students"
+    ],
+    "notable_metrics": [
+      "High admission rate (88%)",
+      "Solid graduation rate (72%)",
+      "Low yield rate (15%)"
+    ]
+  },
+  "San Diego State University": {
+    "hidden_gem_reasons": [
+      "Strong programs in business, engineering, and public health",
+      "Vibrant campus life with strong athletic traditions",
+      "Diverse student body with numerous cultural activities"
+    ],
+    "potential_drawbacks": [
+      "Highly competitive admission for certain programs",
+      "Large student body may feel overwhelming for some",
+      "Some majors may be impacted, limiting class availability"
+    ],
+    "notable_metrics": [
+      "Selective admission rate (39%)",
+      "High graduation rate (78%)",
+      "Exceptional earnings to price ratio (2.37)"
+    ]
+  },
+  "Santa Clara University": {
+    "hidden_gem_reasons": [
+      "Strong programs in business and engineering",
+      "Emphasis on social justice and ethical leadership",
+      "Prime location in Silicon Valley for internships and job opportunities"
+    ],
+    "potential_drawbacks": [
+      "High cost of attendance",
+      "Religious affiliation may not appeal to all students",
+      "Competitive academic environment in certain programs"
+    ],
+    "notable_metrics": [
+      "Moderately selective admission rate (52%)",
+      "Very high graduation rate (89%)",
+      "Moderate yield rate (19%)"
+    ]
+  },
+  "Shenandoah University": {
+    "hidden_gem_reasons": [
+      "Strong programs in performing arts, health sciences, and business",
+      "Close-knit community with personalized attention",
+      "Emphasis on experiential learning and internships"
+    ],
+    "potential_drawbacks": [
+      "High cost of attendance for a small private university",
+      "Limited name recognition outside the region",
+      "Less diverse program offerings compared to larger universities"
+    ],
+    "notable_metrics": [
+      "High admission rate (80%)",
+      "Moderate graduation rate (63%)",
+      "Surprisingly high yield rate (26%)"
+    ]
+  },
+  "Skidmore College": {
+    "hidden_gem_reasons": [
+      "Strong liberal arts education with emphasis on interdisciplinary studies",
+      "Renowned for creativity and innovative thinking",
+      "Close faculty-student relationships and collaborative research opportunities"
+    ],
+    "potential_drawbacks": [
+      "High cost of attendance",
+      "Limited diversity in program offerings",
+      "May have less name recognition outside the Northeast"
+    ],
+    "notable_metrics": [
+      "Highly selective admission rate (26%)",
+      "High graduation rate (84%)",
+      "Moderate yield rate (23%)"
+    ]
+  }
+,
+  "Sonoma State University": {
+    "hidden_gem_reasons": [
+      "Beautiful campus in California wine country",
+      "Strong programs in business, psychology, and environmental studies",
+      "Emphasis on sustainability and green initiatives"
+    ],
+    "potential_drawbacks": [
+      "Less name recognition compared to other California state universities",
+      "Limited program diversity compared to larger universities",
+      "Higher cost for out-of-state students"
+    ],
+    "notable_metrics": [
+      "Very high admission rate (94%)",
+      "Exceptionally high earnings to price ratio (2.52)",
+      "Low yield rate (10%)"
+    ]
+  },
+  "Spelman College": {
+    "hidden_gem_reasons": [
+      "Prestigious historically black women's college",
+      "Strong emphasis on leadership development and social justice",
+      "Excellent STEM programs for women of color"
+    ],
+    "potential_drawbacks": [
+      "Limited to female students",
+      "High cost of attendance for a small college",
+      "Competitive academic environment"
+    ],
+    "notable_metrics": [
+      "Highly selective admission rate (28%)",
+      "Solid graduation rate (74%)",
+      "Low yield rate (15%)"
+    ]
+  },
+  "St Olaf College": {
+    "hidden_gem_reasons": [
+      "Strong liberal arts education with excellent music programs",
+      "Emphasis on global perspective and study abroad",
+      "Close-knit community with strong Nordic heritage"
+    ],
+    "potential_drawbacks": [
+      "High cost of attendance",
+      "Limited diversity in student body",
+      "Rural setting may not appeal to all students"
+    ],
+    "notable_metrics": [
+      "Moderately selective admission rate (56%)",
+      "High graduation rate (85%)",
+      "Good yield rate (28%)"
+    ]
+  },
+  "St. Mary's College of Maryland": {
+    "hidden_gem_reasons": [
+      "Public liberal arts college with a 'honors college' feel",
+      "Strong marine science and environmental studies programs",
+      "Beautiful waterfront campus with sailing opportunities"
+    ],
+    "potential_drawbacks": [
+      "Limited program diversity compared to larger universities",
+      "Rural location may not appeal to all students",
+      "Less name recognition outside the region"
+    ],
+    "notable_metrics": [
+      "Moderately selective admission rate (77%)",
+      "Solid graduation rate (71%)",
+      "Good earnings to price ratio (0.74)"
+    ]
+  },
+  "Stevens Institute of Technology": {
+    "hidden_gem_reasons": [
+      "Strong STEM programs with emphasis on innovation",
+      "Excellent career outcomes and high starting salaries",
+      "Close proximity to New York City for internships and jobs"
+    ],
+    "potential_drawbacks": [
+      "Limited program diversity outside of STEM fields",
+      "High cost of attendance",
+      "Intense academic environment may not suit all students"
+    ],
+    "notable_metrics": [
+      "Moderately selective admission rate (46%)",
+      "Very high graduation rate (88%)",
+      "Low yield rate (17%)"
+    ]
+  },
+  "Stony Brook University": {
+    "hidden_gem_reasons": [
+      "Strong research opportunities for undergraduates",
+      "Excellent STEM programs, especially in health sciences",
+      "Diverse student body with a global perspective"
+    ],
+    "potential_drawbacks": [
+      "Large student body may feel overwhelming for some",
+      "Some intro classes may be very large",
+      "Campus atmosphere may feel less traditional"
+    ],
+    "notable_metrics": [
+      "Moderately selective admission rate (49%)",
+      "High graduation rate (78%)",
+      "Good earnings to price ratio (1.08)"
+    ]
+  },
+  "Syracuse University": {
+    "hidden_gem_reasons": [
+      "Strong programs in communications, information studies, and public affairs",
+      "Vibrant campus life with strong school spirit",
+      "Extensive alumni network and career services"
+    ],
+    "potential_drawbacks": [
+      "High cost of attendance",
+      "Harsh winters may not appeal to all students",
+      "Large student body may feel overwhelming for some"
+    ],
+    "notable_metrics": [
+      "Moderately selective admission rate (52%)",
+      "High graduation rate (83%)",
+      "Moderate yield rate (19%)"
+    ]
+  },
+  "Temple University": {
+    "hidden_gem_reasons": [
+      "Wide range of strong academic programs",
+      "Urban campus with diverse student body",
+      "Excellent value for in-state students"
+    ],
+    "potential_drawbacks": [
+      "Large student body may feel overwhelming for some",
+      "Urban environment may not appeal to all students",
+      "Some areas around campus have safety concerns"
+    ],
+    "notable_metrics": [
+      "High admission rate (80%)",
+      "Solid graduation rate (78%)",
+      "Low yield rate (15%)"
+    ]
+  },
+  "Texas A & M University-College Station": {
+    "hidden_gem_reasons": [
+      "Strong engineering, agriculture, and business programs",
+      "Rich traditions and extremely loyal alumni network",
+      "Extensive research opportunities for undergraduates"
+    ],
+    "potential_drawbacks": [
+      "Very large student body may feel overwhelming",
+      "Conservative campus culture may not appeal to all students",
+      "Some intro classes may be very large"
+    ],
+    "notable_metrics": [
+      "Moderately selective admission rate (63%)",
+      "High graduation rate (84%)",
+      "Exceptionally high yield rate (46%)"
+    ]
+  },
+  "The College of New Jersey": {
+    "hidden_gem_reasons": [
+      "Strong liberal arts education with a public school price",
+      "Beautiful campus with a close-knit community feel",
+      "Excellent programs in education and engineering"
+    ],
+    "potential_drawbacks": [
+      "Limited name recognition outside the region",
+      "Less diverse student body compared to some peer institutions",
+      "Some may find the suburban setting lacking in excitement"
+    ],
+    "notable_metrics": [
+      "Moderately selective admission rate (64%)",
+      "Very high graduation rate (86%)",
+      "Good earnings to price ratio (1.03)"
+    ]
+  }
+,
+  "The College of Wooster": {
+    "hidden_gem_reasons": [
+      "Renowned for undergraduate research and Independent Study program",
+      "Strong liberal arts education with excellent mentoring",
+      "Unique bagpipe and Scottish traditions"
+    ],
+    "potential_drawbacks": [
+      "Limited name recognition outside the Midwest",
+      "Small town setting may not appeal to all students",
+      "Less diverse program offerings compared to larger universities"
+    ],
+    "notable_metrics": [
+      "Moderately selective admission rate (56%)",
+      "Solid graduation rate (74%)",
+      "Low yield rate (14%)"
+    ]
+  },
+  "The University of Alabama": {
+    "hidden_gem_reasons": [
+      "Strong business and communications programs",
+      "Exceptional merit scholarships for out-of-state students",
+      "Rich traditions and vibrant campus life"
+    ],
+    "potential_drawbacks": [
+      "Large student body may feel overwhelming for some",
+      "Strong Greek life presence may not appeal to everyone",
+      "Some may perceive an overemphasis on athletics"
+    ],
+    "notable_metrics": [
+      "High admission rate (80%)",
+      "Solid graduation rate (73%)",
+      "Moderate earnings to price ratio (0.65)"
+    ]
+  },
+  "The University of Tennessee-Knoxville": {
+    "hidden_gem_reasons": [
+      "Strong programs in engineering, business, and agriculture",
+      "Extensive research opportunities for undergraduates",
+      "Vibrant campus life with strong school spirit"
+    ],
+    "potential_drawbacks": [
+      "Large student body may feel overwhelming for some",
+      "Some intro classes may be very large",
+      "Strong sports culture may not appeal to all students"
+    ],
+    "notable_metrics": [
+      "Moderately selective admission rate (68%)",
+      "Solid graduation rate (73%)",
+      "Good yield rate (28%)"
+    ]
+  },
+  "Truman State University": {
+    "hidden_gem_reasons": [
+      "Missouri's only public liberal arts university",
+      "Strong academics at an affordable price",
+      "Emphasis on undergraduate research and study abroad"
+    ],
+    "potential_drawbacks": [
+      "Rural location may not appeal to all students",
+      "Less name recognition outside the Midwest",
+      "Limited diversity in student body"
+    ],
+    "notable_metrics": [
+      "Moderately selective admission rate (45%)",
+      "Solid graduation rate (71%)",
+      "Excellent earnings to price ratio (1.23)"
+    ]
+  },
+  "Union College": {
+    "hidden_gem_reasons": [
+      "Strong engineering program within a liberal arts context",
+      "Unique trimester system allowing for extended internships",
+      "Close-knit community with strong alumni network"
+    ],
+    "potential_drawbacks": [
+      "High cost of attendance",
+      "Less diverse student body compared to some peer institutions",
+      "Small town setting may not appeal to all students"
+    ],
+    "notable_metrics": [
+      "Moderately selective admission rate (47%)",
+      "High graduation rate (85%)",
+      "Low yield rate (15%)"
+    ]
+  },
+  "University at Buffalo": {
+    "hidden_gem_reasons": [
+      "Wide range of strong academic programs",
+      "Extensive research opportunities for undergraduates",
+      "Diverse student body with a global perspective"
+    ],
+    "potential_drawbacks": [
+      "Large student body may feel overwhelming for some",
+      "Harsh winters may not appeal to all students",
+      "Some intro classes may be very large"
+    ],
+    "notable_metrics": [
+      "Moderately selective admission rate (68%)",
+      "Solid graduation rate (74%)",
+      "Good earnings to price ratio (0.85)"
+    ]
+  },
+  "University of California-Riverside": {
+    "hidden_gem_reasons": [
+      "Strong programs in environmental sciences and engineering",
+      "Diverse student body with supportive campus community",
+      "Opportunities for undergraduate research"
+    ],
+    "potential_drawbacks": [
+      "Less prestigious reputation compared to other UC campuses",
+      "Some students may find the suburban setting lacking",
+      "Highly competitive for some majors"
+    ],
+    "notable_metrics": [
+      "Moderately selective admission rate (69%)",
+      "Solid graduation rate (76%)",
+      "Excellent earnings to price ratio (1.20)"
+    ]
+  },
+  "University of Central Oklahoma": {
+    "hidden_gem_reasons": [
+      "Strong programs in forensic science and jazz studies",
+      "Emphasis on transformative learning experiences",
+      "Affordable tuition with good scholarship opportunities"
+    ],
+    "potential_drawbacks": [
+      "Less name recognition outside the region",
+      "Limited diversity in program offerings compared to larger universities",
+      "Lower graduation rate compared to some peer institutions"
+    ],
+    "notable_metrics": [
+      "High admission rate (70%)",
+      "Low graduation rate (35%)",
+      "High yield rate (53%)"
+    ]
+  },
+  "University of Colorado Boulder": {
+    "hidden_gem_reasons": [
+      "Strong programs in aerospace engineering and environmental sciences",
+      "Beautiful campus with excellent outdoor recreation opportunities",
+      "Vibrant student life and strong school spirit"
+    ],
+    "potential_drawbacks": [
+      "High out-of-state tuition",
+      "Party school reputation may not appeal to all",
+      "Large student body may feel overwhelming for some"
+    ],
+    "notable_metrics": [
+      "High admission rate (81%)",
+      "Solid graduation rate (75%)",
+      "Low yield rate (16%)"
+    ]
+  },
+  "University of Connecticut": {
+    "hidden_gem_reasons": [
+      "Strong programs in business, engineering, and health sciences",
+      "Excellent honors program for high-achieving students",
+      "Vibrant campus life with strong athletic traditions"
+    ],
+    "potential_drawbacks": [
+      "Rural main campus location may not appeal to all students",
+      "Large student body may feel overwhelming for some",
+      "Highly competitive for some majors"
+    ],
+    "notable_metrics": [
+      "Moderately selective admission rate (55%)",
+      "High graduation rate (83%)",
+      "Excellent earnings to price ratio (1.22)"
+    ]
+  }
+,
+  "University of Dayton": {
+    "hidden_gem_reasons": [
+      "Strong sense of community and Marianist values",
+      "Excellent engineering and business programs",
+      "Unique student neighborhood for upperclassmen housing"
+    ],
+    "potential_drawbacks": [
+      "High cost of attendance for a Midwest private university",
+      "Catholic affiliation may not appeal to all students",
+      "Less name recognition outside the region"
+    ],
+    "notable_metrics": [
+      "Moderately selective admission rate (74%)",
+      "High graduation rate (81%)",
+      "Low yield rate (14%)"
+    ]
+  },
+  "University of Delaware": {
+    "hidden_gem_reasons": [
+      "Strong programs in engineering, business, and marine science",
+      "Beautiful campus with rich history",
+      "Excellent study abroad opportunities"
+    ],
+    "potential_drawbacks": [
+      "Large student body may feel overwhelming for some",
+      "Strong Greek life presence may not appeal to everyone",
+      "Out-of-state tuition can be high"
+    ],
+    "notable_metrics": [
+      "Moderately selective admission rate (74%)",
+      "High graduation rate (80%)",
+      "Good earnings to price ratio (0.98)"
+    ]
+  },
+  "University of Denver": {
+    "hidden_gem_reasons": [
+      "Strong programs in international studies and hospitality management",
+      "Beautiful campus with easy access to outdoor activities",
+      "Emphasis on experiential learning and internships"
+    ],
+    "potential_drawbacks": [
+      "High cost of attendance",
+      "Less diverse student body compared to some peer institutions",
+      "Winter weather may not appeal to all students"
+    ],
+    "notable_metrics": [
+      "Moderately selective admission rate (78%)",
+      "Solid graduation rate (77%)",
+      "Low yield rate (11%)"
+    ]
+  },
+  "University of Georgia": {
+    "hidden_gem_reasons": [
+      "Strong programs in journalism, business, and ecology",
+      "Beautiful historic campus with vibrant student life",
+      "Excellent honors program for high-achieving students"
+    ],
+    "potential_drawbacks": [
+      "Large student body may feel overwhelming for some",
+      "Highly competitive for some majors",
+      "Strong Greek life presence may not appeal to everyone"
+    ],
+    "notable_metrics": [
+      "Selective admission rate (43%)",
+      "Very high graduation rate (88%)",
+      "Good earnings to price ratio (1.06)"
+    ]
+  },
+  "University of Illinois Urbana-Champaign": {
+    "hidden_gem_reasons": [
+      "World-class engineering and computer science programs",
+      "Strong research opportunities for undergraduates",
+      "Vibrant campus life with diverse student organizations"
+    ],
+    "potential_drawbacks": [
+      "Large student body may feel overwhelming for some",
+      "Highly competitive for popular majors",
+      "Rural setting may not appeal to all students"
+    ],
+    "notable_metrics": [
+      "Selective admission rate (45%)",
+      "High graduation rate (85%)",
+      "Excellent earnings to price ratio (1.25)"
+    ]
+  },
+  "University of Iowa": {
+    "hidden_gem_reasons": [
+      "Renowned writing programs and strong health sciences",
+      "Vibrant college town atmosphere",
+      "Excellent research opportunities for undergraduates"
+    ],
+    "potential_drawbacks": [
+      "Party school reputation may not appeal to all",
+      "Harsh winters may be challenging for some students",
+      "Some programs may be less developed than others"
+    ],
+    "notable_metrics": [
+      "High admission rate (86%)",
+      "Solid graduation rate (74%)",
+      "Good earnings to price ratio (0.81)"
+    ]
+  },
+  "University of Mary Washington": {
+    "hidden_gem_reasons": [
+      "Strong liberal arts education with a public school price",
+      "Small classes with close faculty interaction",
+      "Rich history and beautiful campus"
+    ],
+    "potential_drawbacks": [
+      "Limited program diversity compared to larger universities",
+      "Less name recognition outside the region",
+      "Small town setting may not appeal to all students"
+    ],
+    "notable_metrics": [
+      "High admission rate (86%)",
+      "Solid graduation rate (69%)",
+      "Moderate earnings to price ratio (0.67)"
+    ]
+  },
+  "University of Maryland-College Park": {
+    "hidden_gem_reasons": [
+      "Strong programs in engineering, computer science, and journalism",
+      "Extensive research opportunities for undergraduates",
+      "Vibrant campus life with strong athletic traditions"
+    ],
+    "potential_drawbacks": [
+      "Large student body may feel overwhelming for some",
+      "Highly competitive for popular majors",
+      "Some students may find the suburban setting lacking"
+    ],
+    "notable_metrics": [
+      "Selective admission rate (45%)",
+      "Very high graduation rate (89%)",
+      "Good earnings to price ratio (1.1)"
+    ]
+  },
+  "University of Massachusetts-Amherst": {
+    "hidden_gem_reasons": [
+      "Strong programs in computer science, business, and food science",
+      "Beautiful campus with excellent dining options",
+      "Vibrant Five College Consortium for expanded opportunities"
+    ],
+    "potential_drawbacks": [
+      "Large student body may feel overwhelming for some",
+      "Harsh winters may be challenging for some students",
+      "Some intro classes may be very large"
+    ],
+    "notable_metrics": [
+      "Moderately selective admission rate (64%)",
+      "High graduation rate (83%)",
+      "Good earnings to price ratio (1.01)"
+    ]
+  },
+  "University of Minnesota-Rochester": {
+    "hidden_gem_reasons": [
+      "Innovative health sciences focus",
+      "Small classes with personalized attention",
+      "Strong connections to Mayo Clinic for internships and research"
+    ],
+    "potential_drawbacks": [
+      "Limited program diversity outside of health sciences",
+      "Small student body may limit some social opportunities",
+      "Less name recognition compared to Twin Cities campus"
+    ],
+    "notable_metrics": [
+      "Moderately selective admission rate (72%)",
+      "Moderate graduation rate (59%)",
+      "Good earnings to price ratio (0.94)"
+    ]
+  }
+,
+  "University of Minnesota-Twin Cities": {
+    "hidden_gem_reasons": [
+      "Wide range of strong academic programs across many disciplines",
+      "Extensive research opportunities for undergraduates",
+      "Vibrant urban campus with strong school spirit"
+    ],
+    "potential_drawbacks": [
+      "Large student body may feel overwhelming for some",
+      "Harsh winters may be challenging for some students",
+      "Some intro classes may be very large"
+    ],
+    "notable_metrics": [
+      "Moderately selective admission rate (75%)",
+      "High graduation rate (84%)",
+      "Good earnings to price ratio (0.94)"
+    ]
+  },
+  "University of Nebraska-Lincoln": {
+    "hidden_gem_reasons": [
+      "Strong programs in agriculture, business, and journalism",
+      "Excellent undergraduate research opportunities",
+      "Vibrant campus life with strong athletic traditions"
+    ],
+    "potential_drawbacks": [
+      "Less diverse student body compared to some peer institutions",
+      "Some may find the location lacking in big-city amenities",
+      "Winters can be harsh"
+    ],
+    "notable_metrics": [
+      "High admission rate (79%)",
+      "Moderate graduation rate (65%)",
+      "Good earnings to price ratio (0.84)"
+    ]
+  },
+  "University of New England": {
+    "hidden_gem_reasons": [
+      "Strong health sciences and marine science programs",
+      "Beautiful coastal campuses",
+      "Emphasis on experiential learning and internships"
+    ],
+    "potential_drawbacks": [
+      "High cost of attendance",
+      "Limited program diversity outside of health sciences",
+      "Rural location may not appeal to all students"
+    ],
+    "notable_metrics": [
+      "Very high admission rate (96%)",
+      "Moderate graduation rate (59%)",
+      "Low earnings to price ratio (0.33)"
+    ]
+  },
+  "University of North Carolina at Asheville": {
+    "hidden_gem_reasons": [
+      "Strong liberal arts education at a public university price",
+      "Beautiful mountain setting with outdoor recreation opportunities",
+      "Small classes with close faculty interaction"
+    ],
+    "potential_drawbacks": [
+      "Limited program diversity compared to larger universities",
+      "Less name recognition outside the region",
+      "May lack some amenities of larger campuses"
+    ],
+    "notable_metrics": [
+      "Moderately selective admission rate (74%)",
+      "Moderate graduation rate (59%)",
+      "Good earnings to price ratio (0.86)"
+    ]
+  },
+  "University of North Georgia": {
+    "hidden_gem_reasons": [
+      "Strong military program and leadership development",
+      "Beautiful mountain campus",
+      "Good value for in-state students"
+    ],
+    "potential_drawbacks": [
+      "Limited program diversity compared to larger universities",
+      "Rural location may not appeal to all students",
+      "Less name recognition outside the region"
+    ],
+    "notable_metrics": [
+      "Moderately selective admission rate (70%)",
+      "Low graduation rate (39%)",
+      "Good earnings to price ratio (1.1)"
+    ]
+  },
+  "University of Oklahoma-Norman Campus": {
+    "hidden_gem_reasons": [
+      "Strong programs in meteorology, energy, and Native American studies",
+      "Beautiful campus with strong school spirit",
+      "Excellent merit scholarships for out-of-state students"
+    ],
+    "potential_drawbacks": [
+      "Greek life plays a significant role, which may not appeal to everyone",
+      "Some may find the location lacking in big-city amenities",
+      "Less diverse student body compared to some peer institutions"
+    ],
+    "notable_metrics": [
+      "Moderately selective admission rate (73%)",
+      "Solid graduation rate (76%)",
+      "Good yield rate (30%)"
+    ]
+  },
+  "University of Oregon": {
+    "hidden_gem_reasons": [
+      "Strong programs in journalism, environmental studies, and sports business",
+      "Beautiful campus with excellent outdoor recreation opportunities",
+      "Vibrant college town atmosphere"
+    ],
+    "potential_drawbacks": [
+      "Rainy weather may not appeal to all students",
+      "Less diverse student body compared to some peer institutions",
+      "Some programs may be less developed than others"
+    ],
+    "notable_metrics": [
+      "High admission rate (86%)",
+      "Solid graduation rate (73%)",
+      "Moderate earnings to price ratio (0.76)"
+    ]
+  },
+  "University of Pittsburgh-Pittsburgh Campus": {
+    "hidden_gem_reasons": [
+      "Strong programs in health sciences, engineering, and business",
+      "Vibrant urban campus with excellent internship opportunities",
+      "Unique Guaranteed Admissions Program for select professional schools"
+    ],
+    "potential_drawbacks": [
+      "Large student body may feel overwhelming for some",
+      "Urban environment may not appeal to all students",
+      "Winters can be harsh"
+    ],
+    "notable_metrics": [
+      "Moderately selective admission rate (49%)",
+      "High graduation rate (84%)",
+      "Moderate earnings to price ratio (0.64)"
+    ]
+  },
+  "University of Portland": {
+    "hidden_gem_reasons": [
+      "Strong programs in nursing, engineering, and business",
+      "Beautiful campus overlooking the Willamette River",
+      "Close-knit community with emphasis on service"
+    ],
+    "potential_drawbacks": [
+      "High cost of attendance",
+      "Catholic affiliation may not appeal to all students",
+      "Limited diversity in student body"
+    ],
+    "notable_metrics": [
+      "Very high admission rate (93%)",
+      "Solid graduation rate (79%)",
+      "Very low yield rate (9%)"
+    ]
+  },
+  "University of Scranton": {
+    "hidden_gem_reasons": [
+      "Strong pre-professional programs, especially in health fields",
+      "Jesuit education emphasizing service and ethics",
+      "Close-knit community with strong alumni network"
+    ],
+    "potential_drawbacks": [
+      "High cost of attendance",
+      "Limited diversity in student body",
+      "Less name recognition outside the region"
+    ],
+    "notable_metrics": [
+      "High admission rate (84%)",
+      "High graduation rate (80%)",
+      "Low yield rate (13%)"
+    ]
+  },
+  "University of Utah": {
+    "hidden_gem_reasons": [
+      "Strong programs in computer science, engineering, and business",
+      "Beautiful campus with easy access to outdoor activities",
+      "Growing research profile with opportunities for undergraduates"
+    ],
+    "potential_drawbacks": [
+      "Large student body may feel overwhelming for some",
+      "Less diverse student body compared to some peer institutions",
+      "Mormon influence may not appeal to all students"
+    ],
+    "notable_metrics": [
+      "Very high admission rate (89%)",
+      "Moderate graduation rate (65%)",
+      "Excellent earnings to price ratio (1.25)"
+    ]
+  },
+  "University of Vermont": {
+    "hidden_gem_reasons": [
+      "Strong environmental and health sciences programs",
+      "Beautiful campus with easy access to outdoor activities",
+      "Unique progressive atmosphere"
+    ],
+    "potential_drawbacks": [
+      "High out-of-state tuition",
+      "Harsh winters may not appeal to all students",
+      "Some may find the location lacking in big-city amenities"
+    ],
+    "notable_metrics": [
+      "Moderately selective admission rate (60%)",
+      "Solid graduation rate (76%)",
+      "Good earnings to price ratio (0.83)"
+    ]
+  },
+  "University of the Pacific": {
+    "hidden_gem_reasons": [
+      "Strong programs in dentistry, pharmacy, and music",
+      "Close-knit community with small class sizes",
+      "Accelerated programs available in many fields"
+    ],
+    "potential_drawbacks": [
+      "High cost of attendance",
+      "Location in Stockton may not appeal to all students",
+      "Less name recognition outside the region"
+    ],
+    "notable_metrics": [
+      "Very high admission rate (93%)",
+      "Solid graduation rate (74%)",
+      "Excellent earnings to price ratio (1.13)"
+    ]
+  },
+  "Valparaiso University": {
+    "hidden_gem_reasons": [
+      "Strong engineering and nursing programs",
+      "Close-knit community with emphasis on service",
+      "Good merit scholarships available"
+    ],
+    "potential_drawbacks": [
+      "High cost of attendance",
+      "Lutheran affiliation may not appeal to all students",
+      "Small town setting may not appeal to all"
+    ],
+    "notable_metrics": [
+      "Very high admission rate (94%)",
+      "Solid graduation rate (70%)",
+      "Very low yield rate (9%)"
+    ]
+  },
+  "Virginia Polytechnic Institute and State University": {
+    "hidden_gem_reasons": [
+      "Excellent engineering and agriculture programs",
+      "Strong sense of community and school spirit",
+      "Beautiful campus with outdoor recreation opportunities"
+    ],
+    "potential_drawbacks": [
+      "Large student body may feel overwhelming for some",
+      "Rural location may not appeal to all students",
+      "Highly competitive for popular majors"
+    ],
+    "notable_metrics": [
+      "Moderately selective admission rate (57%)",
+      "Very high graduation rate (86%)",
+      "Good earnings to price ratio (0.93)"
+    ]
+  },
+  "Washington State University": {
+    "hidden_gem_reasons": [
+      "Strong programs in agriculture, veterinary medicine, and communications",
+      "Friendly campus atmosphere with strong school spirit",
+      "Good value for in-state students"
+    ],
+    "potential_drawbacks": [
+      "Remote location may not appeal to all students",
+      "Winters can be harsh",
+      "Some programs may be less developed than others"
+    ],
+    "notable_metrics": [
+      "High admission rate (83%)",
+      "Moderate graduation rate (62%)",
+      "Excellent earnings to price ratio (1.83)"
+    ]
+  },
+  "Western Carolina University": {
+    "hidden_gem_reasons": [
+      "Strong programs in engineering, business, and health sciences",
+      "Beautiful mountain setting with outdoor recreation opportunities",
+      "Affordable tuition with good scholarship opportunities"
+    ],
+    "potential_drawbacks": [
+      "Rural location may not appeal to all students",
+      "Less diverse student body compared to some peer institutions",
+      "Some programs may be less developed than at larger universities"
+    ],
+    "notable_metrics": [
+      "High admission rate (85%)",
+      "Moderate graduation rate (61%)",
+      "Good earnings to price ratio (0.82)"
+    ]
+  },
+  "Wichita State University": {
+    "hidden_gem_reasons": [
+      "Strong programs in engineering and business",
+      "Emphasis on cooperative education and internships",
+      "Affordable tuition with good scholarship opportunities"
+    ],
+    "potential_drawbacks": [
+      "Large commuter population may affect campus life",
+      "Less diverse program offerings compared to larger universities",
+      "May have less name recognition outside the region"
+    ],
+    "notable_metrics": [
+      "Very high admission rate (95%)",
+      "Low graduation rate (52%)",
+      "Good earnings to price ratio (0.88)"
+    ]
+  },
+  "Willamette University": {
+    "hidden_gem_reasons": [
+      "Strong liberal arts education with good pre-professional preparation",
+      "Beautiful campus adjacent to the Oregon State Capitol",
+      "Close-knit community with emphasis on sustainability"
+    ],
+    "potential_drawbacks": [
+      "High cost of attendance",
+      "Limited diversity in program offerings",
+      "May have less name recognition outside the region"
+    ],
+    "notable_metrics": [
+      "High admission rate (81%)",
+      "Solid graduation rate (76%)",
+      "Low earnings to price ratio (0.45)"
+    ]
+  },
+  "Wittenberg University": {
+    "hidden_gem_reasons": [
+      "Strong liberal arts education with emphasis on personal development",
+      "Close-knit community with small class sizes",
+      "Good pre-professional programs, especially pre-med"
+    ],
+    "potential_drawbacks": [
+      "High cost of attendance",
+      "Limited diversity in program offerings",
+      "Small town setting may not appeal to all students"
+    ],
+    "notable_metrics": [
+      "Very high admission rate (94%)",
+      "Moderate graduation rate (57%)",
+      "Moderate earnings to price ratio (0.66)"
+    ]
+  },
+  "Xavier University": {
+    "hidden_gem_reasons": [
+      "Strong programs in business and health sciences",
+      "Jesuit education emphasizing service and ethics",
+      "Close-knit community with emphasis on personal attention"
+    ],
+    "potential_drawbacks": [
+      "High cost of attendance",
+      "Religious affiliation may not appeal to all students",
+      "Limited diversity in student body"
+    ],
+    "notable_metrics": [
+      "High admission rate (85%)",
+      "Solid graduation rate (74%)",
+      "Very low yield rate (9%)"
+    ]
+  }
+,
+  "California Polytechnic State University-San Luis Obispo": {
+    "hidden_gem_reasons": [
+      "Strong emphasis on 'learn by doing' philosophy",
+      "Excellent engineering and agriculture programs",
+      "Beautiful coastal location in California"
+    ],
+    "potential_drawbacks": [
+      "Highly competitive admission process",
+      "Limited diversity in student body",
+      "Isolated location may not appeal to all students"
+    ],
+    "notable_metrics": [
+      "Very selective admission rate (30%)",
+      "High graduation rate (85%)",
+      "Strong earnings to price ratio (1.04)"
+    ]
+  },
+  "California State Polytechnic University-Pomona": {
+    "hidden_gem_reasons": [
+      "Strong polytechnic programs at a public university price",
+      "Diverse student body",
+      "Close proximity to Los Angeles"
+    ],
+    "potential_drawbacks": [
+      "Less name recognition compared to other California schools",
+      "Large commuter population may affect campus life",
+      "Some programs may be less developed than others"
+    ],
+    "notable_metrics": [
+      "High earnings to price ratio (1.44)",
+      "Affordable four-year cost ($46,960)",
+      "Moderate admission rate (55%)"
+    ]
+  },
+  "California State University-Chico": {
+    "hidden_gem_reasons": [
+      "Strong sense of community in a college town setting",
+      "Beautiful campus with outdoor recreation opportunities",
+      "Solid academic programs at an affordable price"
+    ],
+    "potential_drawbacks": [
+      "Party school reputation",
+      "Limited cultural diversity in the surrounding area",
+      "Some may find the location too remote"
+    ],
+    "notable_metrics": [
+      "Very high admission rate (95%)",
+      "Good earnings to price ratio (1.14)",
+      "Low yield rate (10%)"
+    ]
+  },
+  "Case Western Reserve University": {
+    "hidden_gem_reasons": [
+      "Strong STEM programs, especially in engineering and medicine",
+      "Abundant research opportunities for undergraduates",
+      "Collaborative rather than competitive academic environment"
+    ],
+    "potential_drawbacks": [
+      "High cost of attendance",
+      "Cleveland location may not appeal to all students",
+      "Rigorous academics may be overwhelming for some"
+    ],
+    "notable_metrics": [
+      "Selective admission rate (27%)",
+      "High graduation rate (86%)",
+      "Lower earnings to price ratio (0.54)"
+    ]
+  },
+  "Clark University": {
+    "hidden_gem_reasons": [
+      "Strong focus on interdisciplinary studies",
+      "Generous financial aid packages",
+      "Fifth-year tuition-free master's program"
+    ],
+    "potential_drawbacks": [
+      "Less name recognition outside of New England",
+      "Worcester location may not appeal to all students",
+      "Smaller range of majors compared to larger universities"
+    ],
+    "notable_metrics": [
+      "Moderate admission rate (50%)",
+      "Solid graduation rate (76%)",
+      "Lower earnings to price ratio (0.50)"
+    ]
+  },
+  "Clarkson University": {
+    "hidden_gem_reasons": [
+      "Strong engineering and business programs",
+      "High job placement rates",
+      "Emphasis on hands-on learning and internships"
+    ],
+    "potential_drawbacks": [
+      "Remote location in upstate New York",
+      "Harsh winters may not appeal to all students",
+      "Less diverse student body"
+    ],
+    "notable_metrics": [
+      "High admission rate (78%)",
+      "Solid graduation rate (73%)",
+      "Lower yield rate (12%)"
+    ]
+  },
+  "Clemson University": {
+    "hidden_gem_reasons": [
+      "Strong sense of community and school spirit",
+      "Beautiful campus in a college-town setting",
+      "Solid engineering and business programs"
+    ],
+    "potential_drawbacks": [
+      "Less diverse student body",
+      "Strong focus on sports may not appeal to all",
+      "Some may find the location too rural"
+    ],
+    "notable_metrics": [
+      "Competitive admission rate (43%)",
+      "High graduation rate (85%)",
+      "Good earnings to price ratio (0.79)"
+    ]
+  },
+  "Creighton University": {
+    "hidden_gem_reasons": [
+      "Strong pre-professional programs (especially pre-med and pre-law)",
+      "Jesuit education emphasizing service and ethics",
+      "Close-knit community in a midsize city"
+    ],
+    "potential_drawbacks": [
+      "High cost of attendance for a Midwest school",
+      "Religious affiliation may not appeal to all students",
+      "Less name recognition outside the region"
+    ],
+    "notable_metrics": [
+      "High admission rate (76%)",
+      "Solid graduation rate (78%)",
+      "Lower yield rate (17%)"
+    ]
+  },
+  "DePauw University": {
+    "hidden_gem_reasons": [
+      "Strong liberal arts education with pre-professional opportunities",
+      "Close faculty-student relationships",
+      "Robust study abroad programs"
+    ],
+    "potential_drawbacks": [
+      "Rural location may not appeal to all students",
+      "Less diverse student body",
+      "Greek life plays a significant role, which may not suit everyone"
+    ],
+    "notable_metrics": [
+      "Moderate admission rate (66%)",
+      "High graduation rate (79%)",
+      "Low yield rate (14%)"
+    ]
+  },
+  "Denison University": {
+    "hidden_gem_reasons": [
+      "Rigorous liberal arts education",
+      "Strong emphasis on undergraduate research",
+      "Beautiful hilltop campus"
+    ],
+    "potential_drawbacks": [
+      "Rural location may feel isolating for some",
+      "High cost of attendance",
+      "Less name recognition outside the Midwest"
+    ],
+    "notable_metrics": [
+      "Highly selective admission rate (22%)",
+      "High graduation rate (85%)",
+      "Surprisingly high yield rate (25%) for a small liberal arts college"
+    ]
+  },
+  "Arizona State University": {
+    "hidden_gem_reasons": [
+      "Innovation-focused curriculum",
+      "Strong online program offerings",
+      "Extensive research opportunities for undergrads"
+    ],
+    "potential_drawbacks": [
+      "Very large student body may feel overwhelming",
+      "Party school reputation",
+      "Less personalized attention due to size"
+    ],
+    "notable_metrics": [
+      "High earnings to price ratio (1.15)",
+      "Very high admission rate (90%)",
+      "Low yield rate (25%)"
+    ]
+  },
+  "Augustana College": {
+    "hidden_gem_reasons": [
+      "Strong liberal arts core curriculum",
+      "Close-knit community in a mid-sized city",
+      "Unique trimester system"
+    ],
+    "potential_drawbacks": [
+      "Limited name recognition outside the Midwest",
+      "Fewer specialized majors compared to larger universities",
+      "Small town may feel limiting for some"
+    ],
+    "notable_metrics": [
+      "Solid graduation rate (78%)",
+      "Low yield rate (14%)"
+    ]
+  },
+  "Austin College": {
+    "hidden_gem_reasons": [
+      "Robust study abroad program",
+      "Small classes with high faculty interaction",
+      "Strong pre-professional programs"
+    ],
+    "potential_drawbacks": [
+      "Limited diversity in student body",
+      "Lack of \"big-city\" amenities in Sherman, TX",
+      "Greek life plays a significant role, may not appeal to all"
+    ],
+    "notable_metrics": [
+      "Competitive admission rate (54%)",
+      "Very low yield rate (12%)"
+    ]
+  },
+  "Babson College": {
+    "hidden_gem_reasons": [
+      "World-renowned entrepreneurship education",
+      "Strong alumni network in business world",
+      "Collaborative, project-based learning"
+    ],
+    "potential_drawbacks": [
+      "Heavy focus on business may not suit all students",
+      "Lack of traditional liberal arts offerings",
+      "Suburban location may feel isolating"
+    ],
+    "notable_metrics": [
+      "Highly selective (22% admission rate)",
+      "Exceptional graduation rate (93%)",
+      "High yield rate (39%)"
+    ]
+  },
+  "Bentley University": {
+    "hidden_gem_reasons": [
+      "Strong integration of business and liberal arts",
+      "Excellent career services and internship opportunities",
+      "High job placement rates"
+    ],
+    "potential_drawbacks": [
+      "May be too business-focused for some students",
+      "Suburban location limits easy access to Boston",
+      "Less diverse student body"
+    ],
+    "notable_metrics": [
+      "Very high graduation rate (88%)",
+      "High four-year cost ($157,748)"
+    ]
+  },
+  "Berea College": {
+    "hidden_gem_reasons": [
+      "No-tuition promise for all students",
+      "Unique work-study program integrated into curriculum",
+      "Strong commitment to sustainability"
+    ],
+    "potential_drawbacks": [
+      "Required work program may not appeal to all",
+      "Limited course offerings compared to larger schools",
+      "Rural location may feel isolating"
+    ],
+    "notable_metrics": [
+      "Exceptionally high earnings to price ratio (2.96)",
+      "Very low four-year cost ($13,768)",
+      "High yield rate (65%)"
+    ]
+  },
+  "Berry College": {
+    "hidden_gem_reasons": [
+      "Expansive, beautiful campus (largest contiguous college campus in the US)",
+      "Strong emphasis on practical work experience",
+      "Robust scholarship offerings"
+    ],
+    "potential_drawbacks": [
+      "Rural location may feel isolating",
+      "Limited diversity in student body",
+      "Conservative campus culture may not suit all"
+    ],
+    "notable_metrics": [
+      "Lower earnings to price ratio (0.54)",
+      "Moderate admission rate (66%)"
+    ]
+  },
+  "Binghamton University": {
+    "hidden_gem_reasons": [
+      "Strong academics at a public school price",
+      "Vibrant research opportunities for undergrads",
+      "Diverse student body"
+    ],
+    "potential_drawbacks": [
+      "\"College town\" feel may be too small for some",
+      "Harsh winters",
+      "Competitive academic environment"
+    ],
+    "notable_metrics": [
+      "Competitive admission rate (42%)",
+      "High graduation rate (83%)"
+    ]
+  },
+  "Butler University": {
+    "hidden_gem_reasons": [
+      "Strong community engagement opportunities",
+      "Excellent pharmacy and performing arts programs",
+      "Big-time sports in a smaller school setting"
+    ],
+    "potential_drawbacks": [
+      "Greek life plays a significant role, may not appeal to all",
+      "Less diverse student body",
+      "Some programs less developed than others"
+    ],
+    "notable_metrics": [
+      "High admission rate (82%)",
+      "Solid graduation rate (81%)",
+      "Very low yield rate (11%)"
+    ]
+  },
+  "CUNY Bernard M Baruch College": {
+    "hidden_gem_reasons": [
+      "Strong business program in the heart of NYC",
+      "Extremely diverse student body",
+      "Excellent value for a top-tier education"
+    ],
+    "potential_drawbacks": [
+      "Limited campus life due to commuter population",
+      "Competitive, cutthroat academic environment",
+      "Limited housing options"
+    ],
+    "notable_metrics": [
+      "Exceptionally high earnings to price ratio (9.18)",
+      "Very low four-year cost ($7,744)"
+    ]
+  }
+}
